@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-28T19:03:04",
+  "last_updated": "2026-07-28T19:03:45",
   "html": {
     "https://web.archive.org/web/20251109010408if_/https://twitter.com/xiaomao1ovo/status/1987325299080700029": {
       "status": "done",
@@ -1874,9 +1874,9 @@
       "referenced_by": [
         "20260715064355_twitter_com_xiaomao1ovo_status_2077282996345020651.json"
       ],
-      "last_updated": "2026-07-28T18:38:00",
+      "last_updated": "2026-07-28T19:03:29",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260715064355if_/https://pbs.twimg.com/profile_images/2061148276397867008/Z6-YM37S_normal.jpg",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2062180259752017920/-RDuVZe4_normal.jpg": {
       "status": "done",
@@ -1969,18 +1969,18 @@
       "referenced_by": [
         "20260718181742_twitter_com_xiaomao1ovo_status_2078544757534642484.json"
       ],
-      "last_updated": "2026-07-28T18:37:59",
+      "last_updated": "2026-07-28T19:03:34",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260718181742if_/https://pbs.twimg.com/profile_images/2075598456362815488/Eq-OoehO_normal.jpg",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2077071992834945024/PmrvTAjl_normal.jpg": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260718183021_twitter_com_xiaomao1ovo_status_2078547941170860311.json"
       ],
-      "last_updated": "2026-07-28T18:37:57",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260718183021if_/https://pbs.twimg.com/profile_images/2077071992834945024/PmrvTAjl_normal.jpg",
-      "miss_count": 1
+      "last_updated": "2026-07-28T19:03:45",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260718183021if_/https://pbs.twimg.com/profile_images/2077071992834945024/PmrvTAjl_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fae6d2f2db0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2077030321720279040/Yp2xnY-p_normal.jpg": {
       "status": "done",
@@ -3789,7 +3789,7 @@
       "last_updated": "2026-07-28T18:37:59"
     },
     "20260718183021_twitter_com_xiaomao1ovo_status_2078547941170860311.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [
@@ -3800,7 +3800,7 @@
           "https://pbs.twimg.com/profile_images/2077071992834945024/PmrvTAjl_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-28T18:37:57"
+      "last_updated": "2026-07-28T19:03:45"
     },
     "20260719022531_twitter_com_xiaomao1ovo_status_2078667520438079515.json": {
       "status": "done",
