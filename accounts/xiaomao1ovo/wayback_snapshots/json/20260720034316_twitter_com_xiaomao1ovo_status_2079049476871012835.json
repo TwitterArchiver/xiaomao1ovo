@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1944044332052623364",
+    "conversation_id": "2078801589486399783",
+    "created_at": "2026-07-20T03:43:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T04:43:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079049476871012835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1640751385502425088",
+          "start": 0,
+          "username": "aiaiaiai_9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079049476871012835",
+    "in_reply_to_user_id": "1640751385502425088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078801589486399783",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aiaiaiai_9 我的这个软件里提问的我怀疑都是机器人 那些问题都不像是推油问的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078801579709444096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNljBdUaMAAltKp.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2078801579713679360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNljBdVa0AAek_p.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2078801579709534208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNljBdUbkAA_l5B.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944044332052623364",
+        "conversation_id": "2078801589486399783",
+        "created_at": "2026-07-20T03:43:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T04:43:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079049476871012835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1640751385502425088",
+              "start": 0,
+              "username": "aiaiaiai_9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079049476871012835",
+        "in_reply_to_user_id": "1640751385502425088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078801589486399783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aiaiaiai_9 我的这个软件里提问的我怀疑都是机器人 那些问题都不像是推油问的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078801579709444096",
+            "3_2078801579713679360",
+            "3_2078801579709534208"
+          ]
+        },
+        "author_id": "1640751385502425088",
+        "conversation_id": "2078801589486399783",
+        "created_at": "2026-07-19T11:18:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T12:18:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078801589486399783"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KUg8deiXqv",
+              "end": 32,
+              "expanded_url": "https://x.com/aiaiaiai_9/status/2078801589486399783/photo/1",
+              "media_key": "3_2078801579709444096",
+              "start": 9,
+              "url": "https://t.co/KUg8deiXqv"
+            },
+            {
+              "display_url": "pic.x.com/KUg8deiXqv",
+              "end": 32,
+              "expanded_url": "https://x.com/aiaiaiai_9/status/2078801589486399783/photo/1",
+              "media_key": "3_2078801579713679360",
+              "start": 9,
+              "url": "https://t.co/KUg8deiXqv"
+            },
+            {
+              "display_url": "pic.x.com/KUg8deiXqv",
+              "end": 32,
+              "expanded_url": "https://x.com/aiaiaiai_9/status/2078801589486399783/photo/1",
+              "media_key": "3_2078801579709534208",
+              "start": 9,
+              "url": "https://t.co/KUg8deiXqv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078801589486399783",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 504,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "❤️❤️❤️❤️ https://t.co/KUg8deiXqv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-12T14:41:26.000Z",
+        "description": "我就是小喵喵呀 05 / 💊🚬 / 焦虑症 / 强迫症 / m / 全友好几乎无雷❤️ / 上学中 / infj 每天专注经营啥子生活 我很好沟通呀虽然我很语弱🥺欢迎互动欢迎聊天欢迎互fo 只回同类！！提问箱：https://t.co/SlJDUSZmMP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomao84558",
+                "end": 128,
+                "expanded_url": "https://ngl.link/xiaomao84558",
+                "start": 105,
+                "url": "https://t.co/SlJDUSZmMP"
+              }
+            ]
+          }
+        },
+        "id": "1944044332052623364",
+        "name": "小喵喵喵喵喵喵喵喵喵",
+        "pinned_tweet_id": "2078263130673856747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947228243133939712/3HtvHlaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 136,
+          "like_count": 327,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 128
+        },
+        "url": "",
+        "username": "xiaomao1ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-28T16:23:24.000Z",
+        "description": "爱无能乐子人\n世人害我，妒我，怨我，我却握紧手中的愈美一笑而过❤️https://t.co/zTLe1aRKzm⬅️提问箱\n没回复就是被吞评论了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/naomin86665",
+                "end": 56,
+                "expanded_url": "https://ngl.link/naomin86665",
+                "start": 33,
+                "url": "https://t.co/zTLe1aRKzm"
+              }
+            ]
+          }
+        },
+        "id": "1640751385502425088",
+        "name": "Naomin💵✨",
+        "pinned_tweet_id": "2075621297179287725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077030321720279040/Yp2xnY-p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 127,
+          "like_count": 4211,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 881
+        },
+        "url": "",
+        "username": "aiaiaiai_9",
+        "verified": false
+      }
+    ]
+  }
+}

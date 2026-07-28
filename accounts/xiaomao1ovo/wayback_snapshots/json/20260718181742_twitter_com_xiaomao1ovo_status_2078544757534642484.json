@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1944044332052623364",
+    "conversation_id": "2078544757534642484",
+    "created_at": "2026-07-18T18:17:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T19:17:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078544757534642484"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aitori_officia…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/aitori_official/status/2078407404308595016",
+          "start": 34,
+          "url": "https://t.co/Mm2qTardgT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078544757534642484",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078407404308595016",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你个傻逼你高贵啥？骂你冯死了都怕你爽 你自己磕你还说啥别人啊 贱货 https://t.co/Mm2qTardgT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944044332052623364",
+        "conversation_id": "2078544757534642484",
+        "created_at": "2026-07-18T18:17:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T19:17:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078544757534642484"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aitori_officia…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/aitori_official/status/2078407404308595016",
+              "start": 34,
+              "url": "https://t.co/Mm2qTardgT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078544757534642484",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078407404308595016",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你个傻逼你高贵啥？骂你冯死了都怕你爽 你自己磕你还说啥别人啊 贱货 https://t.co/Mm2qTardgT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830905641864708096",
+        "conversation_id": "2078277938546446471",
+        "created_at": "2026-07-18T09:11:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T10:11:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078407404308595016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1579442033483075584",
+              "start": 0,
+              "username": "26suversider"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078407404308595016",
+        "in_reply_to_user_id": "1579442033483075584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 706,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078277938546446471",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "@26suversider 你自己嗑你还怨啥别人啊，真是别人的问题你自己戒了不就行了\n再说，难道你不嗑药了就有健全的生活了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-12T14:41:26.000Z",
+        "description": "我就是小喵喵呀 05 / 💊🚬 / 焦虑症 / 强迫症 / m / 全友好几乎无雷❤️ / 上学中 / infj 每天专注经营啥子生活 我很好沟通呀虽然我很语弱🥺欢迎互动欢迎聊天欢迎互fo 只回同类！！https://t.co/SlJDUSZmMP欢迎匿名提问呀",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomao84558",
+                "end": 124,
+                "expanded_url": "https://ngl.link/xiaomao84558",
+                "start": 101,
+                "url": "https://t.co/SlJDUSZmMP"
+              }
+            ]
+          }
+        },
+        "id": "1944044332052623364",
+        "name": "小喵喵喵喵喵喵喵喵喵",
+        "pinned_tweet_id": "2078263130673856747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947228243133939712/3HtvHlaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 112,
+          "like_count": 195,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 114
+        },
+        "url": "",
+        "username": "xiaomao1ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-03T09:48:26.000Z",
+        "description": "🍄🌿🌵🍥🪴💊🧊\n🥵🥵🎇🎆🫥🫨🤮\n🌮🧁🍫\n🪩🥁📀\n🏳️‍🌈🏳️‍⚧️🇯🇵🇹🇼🩻🧬⚰️",
+        "id": "1830905641864708096",
+        "location": "地獄",
+        "name": "Mico",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075598456362815488/Eq-OoehO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 63,
+          "like_count": 76,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 127
+        },
+        "url": "",
+        "username": "Aitori_Official",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987590216484540416",
+        "3_1987590216589389824"
+      ]
+    },
+    "author_id": "1944044332052623364",
+    "conversation_id": "1987590225162653792",
+    "created_at": "2025-11-09T18:36:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T19:36:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987590225162653792"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 11,
+          "start": 8,
+          "tag": "乖巧"
+        },
+        {
+          "end": 14,
+          "start": 12,
+          "tag": "萌"
+        },
+        {
+          "end": 20,
+          "start": 16,
+          "tag": "乖女儿"
+        },
+        {
+          "end": 25,
+          "start": 22,
+          "tag": "狗狗"
+        },
+        {
+          "end": 32,
+          "start": 27,
+          "tag": "ddlg"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JZ9NIGTnlb",
+          "end": 56,
+          "expanded_url": "https://x.com/xiaomao1ovo/status/1987590225162653792/photo/1",
+          "media_key": "3_1987590216484540416",
+          "start": 33,
+          "url": "https://t.co/JZ9NIGTnlb"
+        },
+        {
+          "display_url": "pic.x.com/JZ9NIGTnlb",
+          "end": 56,
+          "expanded_url": "https://x.com/xiaomao1ovo/status/1987590225162653792/photo/1",
+          "media_key": "3_1987590216589389824",
+          "start": 33,
+          "url": "https://t.co/JZ9NIGTnlb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987590225162653792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一只乖乖小兔子 #乖巧 #萌  #乖女儿  #狗狗  #ddlg https://t.co/JZ9NIGTnlb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1987590216484540416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5VWxWyaUAAK_pN.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1987590216589389824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5VWxXLaMAAk9Sr.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987590216484540416",
+            "3_1987590216589389824"
+          ]
+        },
+        "author_id": "1944044332052623364",
+        "conversation_id": "1987590225162653792",
+        "created_at": "2025-11-09T18:36:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T19:36:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987590225162653792"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 8,
+              "tag": "乖巧"
+            },
+            {
+              "end": 14,
+              "start": 12,
+              "tag": "萌"
+            },
+            {
+              "end": 20,
+              "start": 16,
+              "tag": "乖女儿"
+            },
+            {
+              "end": 25,
+              "start": 22,
+              "tag": "狗狗"
+            },
+            {
+              "end": 32,
+              "start": 27,
+              "tag": "ddlg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JZ9NIGTnlb",
+              "end": 56,
+              "expanded_url": "https://x.com/xiaomao1ovo/status/1987590225162653792/photo/1",
+              "media_key": "3_1987590216484540416",
+              "start": 33,
+              "url": "https://t.co/JZ9NIGTnlb"
+            },
+            {
+              "display_url": "pic.x.com/JZ9NIGTnlb",
+              "end": 56,
+              "expanded_url": "https://x.com/xiaomao1ovo/status/1987590225162653792/photo/1",
+              "media_key": "3_1987590216589389824",
+              "start": 33,
+              "url": "https://t.co/JZ9NIGTnlb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987590225162653792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一只乖乖小兔子 #乖巧 #萌  #乖女儿  #狗狗  #ddlg https://t.co/JZ9NIGTnlb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-12T14:41:26.000Z",
+        "description": "🚪88 只回复口令红包",
+        "id": "1944044332052623364",
+        "name": "小喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947228243133939712/3HtvHlaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 4,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 4
+        },
+        "username": "xiaomao1ovo",
+        "verified": false
+      }
+    ]
+  }
+}

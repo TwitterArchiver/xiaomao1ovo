@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1944044332052623364",
+    "conversation_id": "2079978147576213569",
+    "created_at": "2026-07-22T17:13:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T18:13:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079978147576213569"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2079978147576213569",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "躯体化又、、、、"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944044332052623364",
+        "conversation_id": "2079978147576213569",
+        "created_at": "2026-07-22T17:13:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T18:13:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079978147576213569"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079978147576213569",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "躯体化又、、、、"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-12T14:41:26.000Z",
+        "description": "我就是小喵喵呀 05 / 💊🚬 / 焦虑症 / 强迫症 / m / 全友好几乎无雷❤️ / 上学中 / infj 每天专注经营啥子生活 我很好沟通呀虽然我很语弱🥺欢迎互动欢迎聊天欢迎互fo 只回同类！！提问箱：https://t.co/SlJDUSZmMP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomao84558",
+                "end": 128,
+                "expanded_url": "https://ngl.link/xiaomao84558",
+                "start": 105,
+                "url": "https://t.co/SlJDUSZmMP"
+              }
+            ]
+          }
+        },
+        "id": "1944044332052623364",
+        "name": "小喵喵喵喵喵喵喵喵喵",
+        "pinned_tweet_id": "2078263130673856747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947228243133939712/3HtvHlaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 162,
+          "like_count": 495,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 164
+        },
+        "url": "",
+        "username": "xiaomao1ovo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1944044332052623364",
+    "conversation_id": "2081436935013507413",
+    "created_at": "2026-07-27T02:10:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T03:10:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081562951069114854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1671063101989584901",
+          "start": 0,
+          "username": "Kami14545"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081562951069114854",
+    "in_reply_to_user_id": "1671063101989584901",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081488855950340466",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kami14545 命苦啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944044332052623364",
+        "conversation_id": "2081436935013507413",
+        "created_at": "2026-07-27T02:10:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T03:10:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081562951069114854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1671063101989584901",
+              "start": 0,
+              "username": "Kami14545"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081562951069114854",
+        "in_reply_to_user_id": "1671063101989584901",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081488855950340466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kami14545 命苦啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1671063101989584901",
+        "conversation_id": "2081436935013507413",
+        "created_at": "2026-07-26T21:16:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T22:16:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081488855950340466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1944044332052623364",
+              "start": 0,
+              "username": "xiaomao1ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081488855950340466",
+        "in_reply_to_user_id": "1944044332052623364",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081436935013507413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaomao1ovo 命苦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-12T14:41:26.000Z",
+        "description": "我就是小喵喵呀 05 / 💊🚬 / 焦虑症 / 强迫症 / m / 全友好几乎无雷❤️ / 上学中 / infj 每天专注经营啥子生活 我很好沟通呀虽然我很语弱🥺欢迎互动欢迎聊天欢迎互fo 只回同类！！提问箱：https://t.co/SlJDUSZmMP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomao84558",
+                "end": 128,
+                "expanded_url": "https://ngl.link/xiaomao84558",
+                "start": 105,
+                "url": "https://t.co/SlJDUSZmMP"
+              }
+            ]
+          }
+        },
+        "id": "1944044332052623364",
+        "name": "小喵喵喵喵喵喵喵喵喵",
+        "pinned_tweet_id": "2078263130673856747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947228243133939712/3HtvHlaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 164,
+          "like_count": 591,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 179
+        },
+        "url": "",
+        "username": "xiaomao1ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-20T07:51:33.000Z",
+        "description": "狛哥为什么叫暁美焔都怪谷歌",
+        "id": "1671063101989584901",
+        "name": "暁美焔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1671063223112732672/DQySuCYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 48,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 66
+        },
+        "url": "",
+        "username": "Kami14545",
+        "verified": false
+      }
+    ]
+  }
+}

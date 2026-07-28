@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1944044332052623364",
+    "conversation_id": "2074605631643037762",
+    "created_at": "2026-07-07T21:25:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T22:25:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074605631643037762"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2074605631643037762",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我打算等明天考完试后大磕一场\n然后趁药效和我对象坦白我一直焦虑的事情、我真的太痛苦了、我真的要撑不住了、我已经好久好久没睡过一个好觉了，每一天都是只有三四个小时的睡眠\n太痛苦 太煎熬 太折磨\n我恨死带给我这些痛苦的那个人 我真的恨不得杀了他 可是我只会伤害自己"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944044332052623364",
+        "conversation_id": "2074605631643037762",
+        "created_at": "2026-07-07T21:25:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T22:25:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074605631643037762"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074605631643037762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我打算等明天考完试后大磕一场\n然后趁药效和我对象坦白我一直焦虑的事情、我真的太痛苦了、我真的要撑不住了、我已经好久好久没睡过一个好觉了，每一天都是只有三四个小时的睡眠\n太痛苦 太煎熬 太折磨\n我恨死带给我这些痛苦的那个人 我真的恨不得杀了他 可是我只会伤害自己"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-12T14:41:26.000Z",
+        "description": "专注我的啥子生活",
+        "id": "1944044332052623364",
+        "name": "小喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947228243133939712/3HtvHlaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 25,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 11
+        },
+        "url": "",
+        "username": "xiaomao1ovo",
+        "verified": false
+      }
+    ]
+  }
+}

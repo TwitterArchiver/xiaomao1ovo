@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1944044332052623364",
+    "conversation_id": "2078158368032674034",
+    "created_at": "2026-07-17T22:56:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T23:56:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078252583127556308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1838620535804317696",
+          "start": 0,
+          "username": "karmakarma1221"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078252583127556308",
+    "in_reply_to_user_id": "1838620535804317696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078158368032674034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@karmakarma1221 萌晕了 一个看起来很酷很帅的女孩总是露出萌萌的表情看着我🥺🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2078158354392797184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNcaA0SX0AAT8c8.jpg",
+        "width": 769
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944044332052623364",
+        "conversation_id": "2078158368032674034",
+        "created_at": "2026-07-17T22:56:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T23:56:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078252583127556308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1838620535804317696",
+              "start": 0,
+              "username": "karmakarma1221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078252583127556308",
+        "in_reply_to_user_id": "1838620535804317696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078158368032674034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@karmakarma1221 萌晕了 一个看起来很酷很帅的女孩总是露出萌萌的表情看着我🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078158354392797184"
+          ]
+        },
+        "author_id": "1838620535804317696",
+        "conversation_id": "2078158368032674034",
+        "created_at": "2026-07-17T16:42:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T17:42:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078158368032674034"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/grTBCyoSQ5",
+              "end": 43,
+              "expanded_url": "https://x.com/karmakarma1221/status/2078158368032674034/photo/1",
+              "media_key": "3_2078158354392797184",
+              "start": 20,
+              "url": "https://t.co/grTBCyoSQ5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078158368032674034",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 511,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发动陷阱卡 使你的卡牌效果无！效！化！ https://t.co/grTBCyoSQ5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-12T14:41:26.000Z",
+        "description": "我就是小喵喵呀 05/💊🚬/中焦转重焦/强迫症/上学中/infj 每天专注经营啥子生活 我很好沟通呀欢迎互动欢迎聊天欢迎互fo 只回同类！！https://t.co/SlJDUSZmMP欢迎匿名提问呀",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomao84558",
+                "end": 93,
+                "expanded_url": "https://ngl.link/xiaomao84558",
+                "start": 70,
+                "url": "https://t.co/SlJDUSZmMP"
+              }
+            ]
+          }
+        },
+        "id": "1944044332052623364",
+        "name": "小喵喵喵喵喵喵喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947228243133939712/3HtvHlaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 80,
+          "like_count": 155,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 93
+        },
+        "url": "",
+        "username": "xiaomao1ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-24T16:44:40.000Z",
+        "description": "我是蛞蝓 关注蛞蝓喵 关注蛞蝓谢谢喵♪( ´▽｀)\n\n我的提问箱 https://t.co/PXiBB5SkEn",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/karmakarma1221",
+                "end": 56,
+                "expanded_url": "https://ngl.link/karmakarma1221",
+                "start": 33,
+                "url": "https://t.co/PXiBB5SkEn"
+              }
+            ]
+          }
+        },
+        "id": "1838620535804317696",
+        "location": "公共厕所",
+        "name": "蛞蝓神膜拜膜拜",
+        "pinned_tweet_id": "2075711625663836464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068374958074413056/lXNJV8S8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1238,
+          "following_count": 730,
+          "like_count": 908,
+          "listed_count": 0,
+          "media_count": 208,
+          "tweet_count": 2807
+        },
+        "url": "",
+        "username": "karmakarma1221",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1944044332052623364",
+    "conversation_id": "2078051151296266544",
+    "created_at": "2026-07-17T09:36:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T10:36:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078051151296266544"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiaomao1ovo/st…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/xiaomao1ovo/status/2078051059864674571",
+          "start": 4,
+          "url": "https://t.co/zoqCmZa2ny"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078051151296266544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078051059864674571",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "来来来 https://t.co/zoqCmZa2ny"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944044332052623364",
+        "conversation_id": "2078051151296266544",
+        "created_at": "2026-07-17T09:36:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T10:36:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078051151296266544"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaomao1ovo/st…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/xiaomao1ovo/status/2078051059864674571",
+              "start": 4,
+              "url": "https://t.co/zoqCmZa2ny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078051151296266544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078051059864674571",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "来来来 https://t.co/zoqCmZa2ny"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944044332052623364",
+        "conversation_id": "2078051059864674571",
+        "created_at": "2026-07-17T09:35:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T10:35:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078051059864674571"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "小喵喵喵喵喵喵喵喵喵’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1jGXg…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1jGXggqgRkeKZ",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2078051061127139328/btXwoyi6?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2078051061127139328/btXwoyi6?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 吃完💊我被关小黑屋了",
+              "unwound_url": "https://twitter.com/i/spaces/1jGXggqgRkeKZ/peek",
+              "url": "https://t.co/IfC4coTIfU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078051059864674571",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/IfC4coTIfU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-12T14:41:26.000Z",
+        "description": "我就是小喵喵呀 05/💊🚬/中焦转重焦/强迫症/上学中/infj 每天专注经营啥子生活 我很好沟通呀欢迎互动欢迎聊天欢迎互fo 只回同类！！https://t.co/SlJDUSZmMP欢迎匿名提问呀",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomao84558",
+                "end": 93,
+                "expanded_url": "https://ngl.link/xiaomao84558",
+                "start": 70,
+                "url": "https://t.co/SlJDUSZmMP"
+              }
+            ]
+          }
+        },
+        "id": "1944044332052623364",
+        "name": "小喵喵喵喵喵喵喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947228243133939712/3HtvHlaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 79,
+          "like_count": 138,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 88
+        },
+        "url": "",
+        "username": "xiaomao1ovo",
+        "verified": false
+      }
+    ]
+  }
+}

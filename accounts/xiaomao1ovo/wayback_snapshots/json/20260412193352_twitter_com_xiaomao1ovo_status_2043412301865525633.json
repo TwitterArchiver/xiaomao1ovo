@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043412292986163200",
+        "3_2043412292952543232",
+        "3_2043412292956823552"
+      ]
+    },
+    "author_id": "1944044332052623364",
+    "conversation_id": "2043412301865525633",
+    "created_at": "2026-04-12T19:33:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T20:33:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043412301865525633"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/z0l2Q3Ca8T",
+          "end": 23,
+          "expanded_url": "https://x.com/xiaomao1ovo/status/2043412301865525633/photo/1",
+          "media_key": "3_2043412292986163200",
+          "start": 0,
+          "url": "https://t.co/z0l2Q3Ca8T"
+        },
+        {
+          "display_url": "pic.x.com/z0l2Q3Ca8T",
+          "end": 23,
+          "expanded_url": "https://x.com/xiaomao1ovo/status/2043412301865525633/photo/1",
+          "media_key": "3_2043412292952543232",
+          "start": 0,
+          "url": "https://t.co/z0l2Q3Ca8T"
+        },
+        {
+          "display_url": "pic.x.com/z0l2Q3Ca8T",
+          "end": 23,
+          "expanded_url": "https://x.com/xiaomao1ovo/status/2043412301865525633/photo/1",
+          "media_key": "3_2043412292956823552",
+          "start": 0,
+          "url": "https://t.co/z0l2Q3Ca8T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043412301865525633",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/z0l2Q3Ca8T"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043412292986163200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFuop20bUAAIoaW.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2043412292952543232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFuop2saUAA84E5.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2043412292956823552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFuop2tboAAdPSp.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043412292986163200",
+            "3_2043412292952543232",
+            "3_2043412292956823552"
+          ]
+        },
+        "author_id": "1944044332052623364",
+        "conversation_id": "2043412301865525633",
+        "created_at": "2026-04-12T19:33:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T20:33:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043412301865525633"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z0l2Q3Ca8T",
+              "end": 23,
+              "expanded_url": "https://x.com/xiaomao1ovo/status/2043412301865525633/photo/1",
+              "media_key": "3_2043412292986163200",
+              "start": 0,
+              "url": "https://t.co/z0l2Q3Ca8T"
+            },
+            {
+              "display_url": "pic.x.com/z0l2Q3Ca8T",
+              "end": 23,
+              "expanded_url": "https://x.com/xiaomao1ovo/status/2043412301865525633/photo/1",
+              "media_key": "3_2043412292952543232",
+              "start": 0,
+              "url": "https://t.co/z0l2Q3Ca8T"
+            },
+            {
+              "display_url": "pic.x.com/z0l2Q3Ca8T",
+              "end": 23,
+              "expanded_url": "https://x.com/xiaomao1ovo/status/2043412301865525633/photo/1",
+              "media_key": "3_2043412292956823552",
+              "start": 0,
+              "url": "https://t.co/z0l2Q3Ca8T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043412301865525633",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/z0l2Q3Ca8T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-12T14:41:26.000Z",
+        "description": "",
+        "id": "1944044332052623364",
+        "name": "小喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947228243133939712/3HtvHlaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 7,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 3
+        },
+        "username": "xiaomao1ovo",
+        "verified": false
+      }
+    ]
+  }
+}

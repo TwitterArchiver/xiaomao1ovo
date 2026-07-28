@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1944044332052623364",
+    "conversation_id": "2078818457332920721",
+    "created_at": "2026-07-20T03:39:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T04:39:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079048421105897958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1700707750236258304",
+          "start": 0,
+          "username": "Aimanquilsoul_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079048421105897958",
+    "in_reply_to_user_id": "1700707750236258304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078922590488600915",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aimanquilsoul_ 现在这两个都没法网上买啦 pr需要去医院说神经痛开处方买 ym可以去药店看看 登记身份证 有的药店也要处方 都不是很好买 很多贩子都是骗子 注意辨别宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944044332052623364",
+        "conversation_id": "2078818457332920721",
+        "created_at": "2026-07-20T03:39:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T04:39:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079048421105897958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1700707750236258304",
+              "start": 0,
+              "username": "Aimanquilsoul_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079048421105897958",
+        "in_reply_to_user_id": "1700707750236258304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078922590488600915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aimanquilsoul_ 现在这两个都没法网上买啦 pr需要去医院说神经痛开处方买 ym可以去药店看看 登记身份证 有的药店也要处方 都不是很好买 很多贩子都是骗子 注意辨别宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700707750236258304",
+        "conversation_id": "2078818457332920721",
+        "created_at": "2026-07-19T19:19:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T20:19:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078922590488600915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1944044332052623364",
+              "start": 0,
+              "username": "xiaomao1ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078922590488600915",
+        "in_reply_to_user_id": "1944044332052623364",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078922219825336387",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaomao1ovo 在哪可以買呀寶寶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-12T14:41:26.000Z",
+        "description": "我就是小喵喵呀 05 / 💊🚬 / 焦虑症 / 强迫症 / m / 全友好几乎无雷❤️ / 上学中 / infj 每天专注经营啥子生活 我很好沟通呀虽然我很语弱🥺欢迎互动欢迎聊天欢迎互fo 只回同类！！提问箱：https://t.co/SlJDUSZmMP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomao84558",
+                "end": 128,
+                "expanded_url": "https://ngl.link/xiaomao84558",
+                "start": 105,
+                "url": "https://t.co/SlJDUSZmMP"
+              }
+            ]
+          }
+        },
+        "id": "1944044332052623364",
+        "name": "小喵喵喵喵喵喵喵喵喵",
+        "pinned_tweet_id": "2078263130673856747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947228243133939712/3HtvHlaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 136,
+          "like_count": 322,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 124
+        },
+        "url": "",
+        "username": "xiaomao1ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T03:09:01.000Z",
+        "description": "我不知道说什么",
+        "id": "1700707750236258304",
+        "name": "an",
+        "pinned_tweet_id": "1988979551792427196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064707232370176000/yQMzo7FE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1034,
+          "following_count": 31,
+          "like_count": 550,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 425
+        },
+        "url": "",
+        "username": "Aimanquilsoul_",
+        "verified": false
+      }
+    ]
+  }
+}

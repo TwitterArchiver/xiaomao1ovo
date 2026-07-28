@@ -1,0 +1,153 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1944044332052623364",
+    "conversation_id": "2077746189282533467",
+    "created_at": "2026-07-16T14:04:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T15:04:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077756339884052690"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2077756339884052690",
+    "in_reply_to_user_id": "1944044332052623364",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077746189282533467",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我看到手机上黑色的点啊喵喵等药效中"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944044332052623364",
+        "conversation_id": "2077746189282533467",
+        "created_at": "2026-07-16T14:04:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T15:04:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077756339884052690"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077756339884052690",
+        "in_reply_to_user_id": "1944044332052623364",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077746189282533467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我看到手机上黑色的点啊喵喵等药效中"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944044332052623364",
+        "conversation_id": "2077746189282533467",
+        "created_at": "2026-07-16T13:24:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T14:24:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077746189282533467"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077746189282533467",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "白天9tpr药效还在我现在吃1tsns"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-12T14:41:26.000Z",
+        "description": "我就是小喵喵呀 od/05/中焦变重焦/强迫症/上学中/infj 每天专注经营啥子生活 我很好沟通呀欢迎互动欢迎聊天欢迎互fo 只回同类！！https://t.co/SlJDUSZmMP欢迎匿名提问呀",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomao84558",
+                "end": 93,
+                "expanded_url": "https://ngl.link/xiaomao84558",
+                "start": 70,
+                "url": "https://t.co/SlJDUSZmMP"
+              }
+            ]
+          }
+        },
+        "id": "1944044332052623364",
+        "name": "小喵喵喵喵喵喵喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947228243133939712/3HtvHlaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 67,
+          "like_count": 101,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 73
+        },
+        "url": "",
+        "username": "xiaomao1ovo",
+        "verified": false
+      }
+    ]
+  }
+}

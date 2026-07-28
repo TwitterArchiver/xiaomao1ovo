@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1944044332052623364",
+    "conversation_id": "2078253411930395126",
+    "created_at": "2026-07-17T23:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T00:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078253411930395126"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/gongzisama1/st…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/gongzisama1/status/2077709321174200779",
+          "start": 16,
+          "url": "https://t.co/5o0nHzPovt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078253411930395126",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077709321174200779",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我感觉最近好多互关都冻结账号了 https://t.co/5o0nHzPovt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944044332052623364",
+        "conversation_id": "2078253411930395126",
+        "created_at": "2026-07-17T23:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T00:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078253411930395126"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gongzisama1/st…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/gongzisama1/status/2077709321174200779",
+              "start": 16,
+              "url": "https://t.co/5o0nHzPovt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078253411930395126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077709321174200779",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我感觉最近好多互关都冻结账号了 https://t.co/5o0nHzPovt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701997020469399552",
+        "conversation_id": "2077709321174200779",
+        "created_at": "2026-07-16T10:57:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T11:57:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077709321174200779"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077709321174200779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2576,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "各位互关老朋友们麻烦转转这条，我想找回各位朋友😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-12T14:41:26.000Z",
+        "description": "我就是小喵喵呀 05/💊🚬/中焦转重焦/强迫症/上学中/infj 每天专注经营啥子生活 我很好沟通呀欢迎互动欢迎聊天欢迎互fo 只回同类！！https://t.co/SlJDUSZmMP欢迎匿名提问呀",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomao84558",
+                "end": 93,
+                "expanded_url": "https://ngl.link/xiaomao84558",
+                "start": 70,
+                "url": "https://t.co/SlJDUSZmMP"
+              }
+            ]
+          }
+        },
+        "id": "1944044332052623364",
+        "name": "小喵喵喵喵喵喵喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947228243133939712/3HtvHlaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 80,
+          "like_count": 156,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 95
+        },
+        "url": "",
+        "username": "xiaomao1ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-13T16:31:38.000Z",
+        "description": "马斯克还我账号 前世@xx1012000456\nod和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/lzROBqdeKL 大概几天统一回复一次\n策划药生意加载中.....",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 10,
+                "username": "xx1012000456"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 82,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 59,
+                "url": "https://t.co/lzROBqdeKL"
+              }
+            ]
+          }
+        },
+        "id": "1701997020469399552",
+        "location": "北京",
+        "name": "x-square 「公子」一世",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077781062726651904/aWfzE-lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 121,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 19
+        },
+        "url": "",
+        "username": "gongzisama1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1944044332052623364",
+    "conversation_id": "2076496057396236517",
+    "created_at": "2026-07-13T05:08:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T06:08:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076534274535370940"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2057729979677548544",
+          "start": 0,
+          "username": "Numiouoo"
+        },
+        {
+          "end": 21,
+          "id": "2033228136180219904",
+          "start": 10,
+          "username": "Chu_Echooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076534274535370940",
+    "in_reply_to_user_id": "2057729979677548544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076524164769632265",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Numiouoo @Chu_Echooo 曾经液断太久尿变成甜的了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944044332052623364",
+        "conversation_id": "2076496057396236517",
+        "created_at": "2026-07-13T05:08:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T06:08:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076534274535370940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            },
+            {
+              "end": 21,
+              "id": "2033228136180219904",
+              "start": 10,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076534274535370940",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076524164769632265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo @Chu_Echooo 曾经液断太久尿变成甜的了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2076496057396236517",
+        "created_at": "2026-07-13T04:28:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T05:28:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076524164769632265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076524164769632265",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076496057396236517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 我昨天也是舔了吞了发现自己的血是甜的，，，结果一测血糖又不高（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-12T14:41:26.000Z",
+        "description": "我就是小喵喵呀 od/05/中焦/强迫症/上学中/infj  每天专注经营啥子生活 我很好沟通呀欢迎互动欢迎聊天欢迎互fo",
+        "id": "1944044332052623364",
+        "name": "小喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947228243133939712/3HtvHlaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 57,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 47
+        },
+        "url": "",
+        "username": "xiaomao1ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@fanwei_17\n疯狗神经病绝赞黄毒虫🩵Sex&Drug&Harm激推🩵评论互动会查主页感兴趣回fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵⚠️⚠️⚠️请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1806,
+          "following_count": 970,
+          "like_count": 3530,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 2711
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 739,
+          "following_count": 102,
+          "like_count": 8160,
+          "listed_count": 1,
+          "media_count": 264,
+          "tweet_count": 2891
+        },
+        "url": "",
+        "username": "Chu_Echooo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987325287621894144",
+        "3_1987325287617761281"
+      ]
+    },
+    "author_id": "1944044332052623364",
+    "conversation_id": "1987325299080700029",
+    "created_at": "2025-11-09T01:04:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T02:04:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987325299080700029"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jXQ6yXuEH1",
+          "end": 31,
+          "expanded_url": "https://x.com/xiaomao1ovo/status/1987325299080700029/photo/1",
+          "media_key": "3_1987325287621894144",
+          "start": 8,
+          "url": "https://t.co/jXQ6yXuEH1"
+        },
+        {
+          "display_url": "pic.x.com/jXQ6yXuEH1",
+          "end": 31,
+          "expanded_url": "https://x.com/xiaomao1ovo/status/1987325299080700029/photo/1",
+          "media_key": "3_1987325287617761281",
+          "start": 8,
+          "url": "https://t.co/jXQ6yXuEH1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987325299080700029",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一只乖乖小兔子 https://t.co/jXQ6yXuEH1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1987325287621894144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5Rl0d3aoAAJLLk.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1987325287617761281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5Rl0d2bkAE1bfC.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987325287621894144",
+            "3_1987325287617761281"
+          ]
+        },
+        "author_id": "1944044332052623364",
+        "conversation_id": "1987325299080700029",
+        "created_at": "2025-11-09T01:04:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T02:04:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987325299080700029"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jXQ6yXuEH1",
+              "end": 31,
+              "expanded_url": "https://x.com/xiaomao1ovo/status/1987325299080700029/photo/1",
+              "media_key": "3_1987325287621894144",
+              "start": 8,
+              "url": "https://t.co/jXQ6yXuEH1"
+            },
+            {
+              "display_url": "pic.x.com/jXQ6yXuEH1",
+              "end": 31,
+              "expanded_url": "https://x.com/xiaomao1ovo/status/1987325299080700029/photo/1",
+              "media_key": "3_1987325287617761281",
+              "start": 8,
+              "url": "https://t.co/jXQ6yXuEH1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987325299080700029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一只乖乖小兔子 https://t.co/jXQ6yXuEH1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-12T14:41:26.000Z",
+        "description": "🚪88 只回复口令红包",
+        "id": "1944044332052623364",
+        "name": "小喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947228243133939712/3HtvHlaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 3,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 3
+        },
+        "username": "xiaomao1ovo",
+        "verified": false
+      }
+    ]
+  }
+}

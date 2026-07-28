@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1944044332052623364",
+    "conversation_id": "2079588910036828189",
+    "created_at": "2026-07-22T01:58:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T02:58:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079747807028871284"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1579442033483075584",
+          "start": 0,
+          "username": "26suversider"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079747807028871284",
+    "in_reply_to_user_id": "1579442033483075584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079588910036828189",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@26suversider 不要吃太多呀包包...如果觉得布洛芬效果不好下次吃个对乙酰氨基酚 都要控制量不然对肝肾不好宝宝...🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944044332052623364",
+        "conversation_id": "2079588910036828189",
+        "created_at": "2026-07-22T01:58:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T02:58:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079747807028871284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1579442033483075584",
+              "start": 0,
+              "username": "26suversider"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079747807028871284",
+        "in_reply_to_user_id": "1579442033483075584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079588910036828189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@26suversider 不要吃太多呀包包...如果觉得布洛芬效果不好下次吃个对乙酰氨基酚 都要控制量不然对肝肾不好宝宝...🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1579442033483075584",
+        "conversation_id": "2079588910036828189",
+        "created_at": "2026-07-21T15:26:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T16:26:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079588910036828189"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079588910036828189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 184,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我因为痛经已经吃了三颗布洛芬了今天，有点像od了😂。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-12T14:41:26.000Z",
+        "description": "我就是小喵喵呀 05 / 💊🚬 / 焦虑症 / 强迫症 / m / 全友好几乎无雷❤️ / 上学中 / infj 每天专注经营啥子生活 我很好沟通呀虽然我很语弱🥺欢迎互动欢迎聊天欢迎互fo 只回同类！！提问箱：https://t.co/SlJDUSZmMP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomao84558",
+                "end": 128,
+                "expanded_url": "https://ngl.link/xiaomao84558",
+                "start": 105,
+                "url": "https://t.co/SlJDUSZmMP"
+              }
+            ]
+          }
+        },
+        "id": "1944044332052623364",
+        "name": "小喵喵喵喵喵喵喵喵喵",
+        "pinned_tweet_id": "2078263130673856747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947228243133939712/3HtvHlaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 158,
+          "like_count": 430,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 153
+        },
+        "url": "",
+        "username": "xiaomao1ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-10T12:01:48.000Z",
+        "description": "专注我的嗑药生活\n🚪38纯绿聊天朋友圈\n\nhttps://t.co/bRRAIqGEOS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sukieu1",
+                "end": 44,
+                "expanded_url": "https://ngl.link/sukieu1",
+                "start": 21,
+                "url": "https://t.co/bRRAIqGEOS"
+              }
+            ]
+          }
+        },
+        "id": "1579442033483075584",
+        "name": "孙笑川籍吧",
+        "pinned_tweet_id": "2065793737977127349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069652627575414784/Z7qSci36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 739,
+          "following_count": 138,
+          "like_count": 1036,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 1165
+        },
+        "url": "",
+        "username": "26suversider",
+        "verified": false
+      }
+    ]
+  }
+}

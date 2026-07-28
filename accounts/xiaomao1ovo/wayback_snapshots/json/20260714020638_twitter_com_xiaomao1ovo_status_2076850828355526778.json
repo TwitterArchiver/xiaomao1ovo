@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1944044332052623364",
+    "conversation_id": "2076523147000696990",
+    "created_at": "2026-07-14T02:06:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T03:06:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076850828355526778"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2062190491991744512",
+          "start": 0,
+          "username": "Sypshenlipu"
+        },
+        {
+          "end": 21,
+          "id": "1725957336999886848",
+          "start": 13,
+          "username": "Is1et03"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076850828355526778",
+    "in_reply_to_user_id": "2062190491991744512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076834356719759652",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sypshenlipu @Is1et03 我是有别的事自己来报案啦😭吃这个缓解焦虑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944044332052623364",
+        "conversation_id": "2076523147000696990",
+        "created_at": "2026-07-14T02:06:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T03:06:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076850828355526778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2062190491991744512",
+              "start": 0,
+              "username": "Sypshenlipu"
+            },
+            {
+              "end": 21,
+              "id": "1725957336999886848",
+              "start": 13,
+              "username": "Is1et03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076850828355526778",
+        "in_reply_to_user_id": "2062190491991744512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076834356719759652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sypshenlipu @Is1et03 我是有别的事自己来报案啦😭吃这个缓解焦虑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2062190491991744512",
+        "conversation_id": "2076523147000696990",
+        "created_at": "2026-07-14T01:01:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T02:01:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076834356719759652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1725957336999886848",
+              "start": 0,
+              "username": "Is1et03"
+            },
+            {
+              "end": 21,
+              "id": "1944044332052623364",
+              "start": 9,
+              "username": "xiaomao1ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076834356719759652",
+        "in_reply_to_user_id": "1725957336999886848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076776810059288718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Is1et03 @xiaomao1ovo 玉米都不是處方藥也能喝茶？純沒業績是吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-12T14:41:26.000Z",
+        "description": "我就是小喵喵呀 od/05/中焦/强迫症/上学中/infj 每天专注经营啥子生活 我很好沟通呀欢迎互动欢迎聊天欢迎互fo     https://t.co/SlJDUSZmMP欢迎匿名提问呀",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomao84558",
+                "end": 88,
+                "expanded_url": "https://ngl.link/xiaomao84558",
+                "start": 65,
+                "url": "https://t.co/SlJDUSZmMP"
+              }
+            ]
+          }
+        },
+        "id": "1944044332052623364",
+        "name": "小喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947228243133939712/3HtvHlaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 58,
+          "like_count": 56,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 59
+        },
+        "url": "",
+        "username": "xiaomao1ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-03T15:13:20.000Z",
+        "description": "",
+        "id": "2062190491991744512",
+        "name": "Li pu Shen🇹🇼🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062191311411904513/DOUmQaVp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 32,
+          "like_count": 11569,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 337
+        },
+        "url": "",
+        "username": "Sypshenlipu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-18T19:21:21.000Z",
+        "description": "网瘾 需要队友 什么都玩",
+        "id": "1725957336999886848",
+        "name": "be careful",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069903508170850305/WGJIwCUQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 8,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 19
+        },
+        "url": "",
+        "username": "Is1et03",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1944044332052623364",
+    "conversation_id": "2078442380806770897",
+    "created_at": "2026-07-18T18:30:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T19:30:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078547941170860311"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2077071624025542656",
+          "start": 0,
+          "username": "Souomaowo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078547941170860311",
+    "in_reply_to_user_id": "2077071624025542656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078442380806770897",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Souomaowo 咳的这么严重快给她开点吧！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9472,
+        "height": 1280,
+        "media_key": "13_2078442325702041600",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2078442325702041600/img/8Pt_2oAenaruT5zX.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078442325702041600/vid/avc1/320x568/my4yV7sC-4uJ0Npd.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078442325702041600/vid/avc1/480x852/vjDYXjMVdssiN60-.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078442325702041600/vid/avc1/720x1280/dsw6IMZPfyg0V8ki.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2078442325702041600/pl/PP_bvieSx2dR9Y-U.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944044332052623364",
+        "conversation_id": "2078442380806770897",
+        "created_at": "2026-07-18T18:30:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T19:30:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078547941170860311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2077071624025542656",
+              "start": 0,
+              "username": "Souomaowo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078547941170860311",
+        "in_reply_to_user_id": "2077071624025542656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078442380806770897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Souomaowo 咳的这么严重快给她开点吧！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078442325702041600"
+          ]
+        },
+        "author_id": "2077071624025542656",
+        "conversation_id": "2078442380806770897",
+        "created_at": "2026-07-18T11:30:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T12:30:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078442380806770897"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uTVy8WNQNC",
+              "end": 43,
+              "expanded_url": "https://x.com/Souomaowo/status/2078442380806770897/video/1",
+              "media_key": "13_2078442325702041600",
+              "start": 20,
+              "url": "https://t.co/uTVy8WNQNC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078442380806770897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在咳嗽 医生可以给我开点右美沙芬吗？ https://t.co/uTVy8WNQNC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-12T14:41:26.000Z",
+        "description": "我就是小喵喵呀 05 / 💊🚬 / 焦虑症 / 强迫症 / m / 全友好几乎无雷❤️ / 上学中 / infj 每天专注经营啥子生活 我很好沟通呀虽然我很语弱🥺欢迎互动欢迎聊天欢迎互fo 只回同类！！提问箱：https://t.co/SlJDUSZmMP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomao84558",
+                "end": 128,
+                "expanded_url": "https://ngl.link/xiaomao84558",
+                "start": 105,
+                "url": "https://t.co/SlJDUSZmMP"
+              }
+            ]
+          }
+        },
+        "id": "1944044332052623364",
+        "name": "小喵喵喵喵喵喵喵喵喵",
+        "pinned_tweet_id": "2078263130673856747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947228243133939712/3HtvHlaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 112,
+          "like_count": 211,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 115
+        },
+        "url": "",
+        "username": "xiaomao1ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-14T16:44:57.000Z",
+        "description": "🇨🇳|od|精神不安定\n欢迎聊天 我只是个爱老公酱的笨蛋\n男的来过门槛陪聊",
+        "id": "2077071624025542656",
+        "location": "🚪52",
+        "name": "用户0621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077071992834945024/PmrvTAjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 12,
+          "like_count": 52,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 38
+        },
+        "url": "",
+        "username": "Souomaowo",
+        "verified": false
+      }
+    ]
+  }
+}

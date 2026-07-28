@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1944044332052623364",
+    "conversation_id": "2079049295945445845",
+    "created_at": "2026-07-20T05:12:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T06:12:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079072018184708213"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2047699031502319616",
+          "start": 0,
+          "username": "Zxyywyl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079072018184708213",
+    "in_reply_to_user_id": "2047699031502319616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079049918174355577",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zxyywyl 狗狗！我特别喜欢大金毛\n理想型是大富豪🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944044332052623364",
+        "conversation_id": "2079049295945445845",
+        "created_at": "2026-07-20T05:12:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T06:12:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079072018184708213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2047699031502319616",
+              "start": 0,
+              "username": "Zxyywyl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079072018184708213",
+        "in_reply_to_user_id": "2047699031502319616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079049918174355577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zxyywyl 狗狗！我特别喜欢大金毛\n理想型是大富豪🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047699031502319616",
+        "conversation_id": "2079049295945445845",
+        "created_at": "2026-07-20T03:45:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T04:45:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079049918174355577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1944044332052623364",
+              "start": 0,
+              "username": "xiaomao1ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079049918174355577",
+        "in_reply_to_user_id": "1944044332052623364",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079049295945445845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaomao1ovo 20，23😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-12T14:41:26.000Z",
+        "description": "我就是小喵喵呀 05 / 💊🚬 / 焦虑症 / 强迫症 / m / 全友好几乎无雷❤️ / 上学中 / infj 每天专注经营啥子生活 我很好沟通呀虽然我很语弱🥺欢迎互动欢迎聊天欢迎互fo 只回同类！！提问箱：https://t.co/SlJDUSZmMP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomao84558",
+                "end": 128,
+                "expanded_url": "https://ngl.link/xiaomao84558",
+                "start": 105,
+                "url": "https://t.co/SlJDUSZmMP"
+              }
+            ]
+          }
+        },
+        "id": "1944044332052623364",
+        "name": "小喵喵喵喵喵喵喵喵喵",
+        "pinned_tweet_id": "2078263130673856747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947228243133939712/3HtvHlaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 136,
+          "like_count": 329,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 131
+        },
+        "url": "",
+        "username": "xiaomao1ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-24T15:31:28.000Z",
+        "description": "你改不了 我忍不了 那就这样吧",
+        "id": "2047699031502319616",
+        "name": "六月",
+        "pinned_tweet_id": "2078809594483093920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078865899881136128/CdGRkuZI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 100,
+          "like_count": 2252,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 121
+        },
+        "url": "",
+        "username": "Zxyywyl",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1944044332052623364",
+    "conversation_id": "2079607165279523204",
+    "created_at": "2026-07-22T03:41:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T04:41:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079773757737255393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2008420775204896768",
+          "start": 0,
+          "username": "Yuki312813"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079773757737255393",
+    "in_reply_to_user_id": "2008420775204896768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079773457345028299",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuki312813 努力戒🈹👿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944044332052623364",
+        "conversation_id": "2079607165279523204",
+        "created_at": "2026-07-22T03:41:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T04:41:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079773757737255393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2008420775204896768",
+              "start": 0,
+              "username": "Yuki312813"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079773757737255393",
+        "in_reply_to_user_id": "2008420775204896768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079773457345028299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki312813 努力戒🈹👿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2079607165279523204",
+        "created_at": "2026-07-22T03:40:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T04:40:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079773457345028299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1944044332052623364",
+              "start": 0,
+              "username": "xiaomao1ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079773457345028299",
+        "in_reply_to_user_id": "1944044332052623364",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079773125554889153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaomao1ovo 别做。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-12T14:41:26.000Z",
+        "description": "我就是小喵喵呀 05 / 💊🚬 / 焦虑症 / 强迫症 / m / 全友好几乎无雷❤️ / 上学中 / infj 每天专注经营啥子生活 我很好沟通呀虽然我很语弱🥺欢迎互动欢迎聊天欢迎互fo 只回同类！！提问箱：https://t.co/SlJDUSZmMP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomao84558",
+                "end": 128,
+                "expanded_url": "https://ngl.link/xiaomao84558",
+                "start": 105,
+                "url": "https://t.co/SlJDUSZmMP"
+              }
+            ]
+          }
+        },
+        "id": "1944044332052623364",
+        "name": "小喵喵喵喵喵喵喵喵喵",
+        "pinned_tweet_id": "2078263130673856747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947228243133939712/3HtvHlaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 160,
+          "like_count": 481,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 159
+        },
+        "url": "",
+        "username": "xiaomao1ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079722649282891777/Z1WbYktU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 256,
+          "like_count": 4487,
+          "listed_count": 0,
+          "media_count": 361,
+          "tweet_count": 3461
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      }
+    ]
+  }
+}

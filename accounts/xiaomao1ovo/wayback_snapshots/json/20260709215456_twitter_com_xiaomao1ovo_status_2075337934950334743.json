@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1944044332052623364",
+    "conversation_id": "2075276717703176258",
+    "created_at": "2026-07-09T21:54:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T22:54:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075337934950334743"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1838620535804317696",
+          "start": 0,
+          "username": "karmakarma1221"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075337934950334743",
+    "in_reply_to_user_id": "1838620535804317696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075276717703176258",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@karmakarma1221 我每天都是下午睡觉orz晚上醒 然后无聊的度过夜晚和早晨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944044332052623364",
+        "conversation_id": "2075276717703176258",
+        "created_at": "2026-07-09T21:54:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T22:54:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075337934950334743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1838620535804317696",
+              "start": 0,
+              "username": "karmakarma1221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075337934950334743",
+        "in_reply_to_user_id": "1838620535804317696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075276717703176258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@karmakarma1221 我每天都是下午睡觉orz晚上醒 然后无聊的度过夜晚和早晨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838620535804317696",
+        "conversation_id": "2075276717703176258",
+        "created_at": "2026-07-09T17:51:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T18:51:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075276717703176258"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075276717703176258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "作息已死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-12T14:41:26.000Z",
+        "description": "我就是小喵喵呀 od/05/中焦/强迫症/上学中/infj  每天专注经营啥子生活 我很好沟通呀欢迎互动欢迎聊天欢迎互fo",
+        "id": "1944044332052623364",
+        "name": "小喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947228243133939712/3HtvHlaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 34,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 24
+        },
+        "url": "",
+        "username": "xiaomao1ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-24T16:44:40.000Z",
+        "description": "我是蛞蝓 关注蛞蝓喵 关注蛞蝓谢谢喵♪( ´▽｀)\n\n我的提问箱 https://t.co/PXiBB5SkEn",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/karmakarma1221",
+                "end": 56,
+                "expanded_url": "https://ngl.link/karmakarma1221",
+                "start": 33,
+                "url": "https://t.co/PXiBB5SkEn"
+              }
+            ]
+          }
+        },
+        "id": "1838620535804317696",
+        "location": "公共厕所",
+        "name": "蛞蝓神膜拜膜拜",
+        "pinned_tweet_id": "2072357345967952051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068374958074413056/lXNJV8S8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1177,
+          "following_count": 696,
+          "like_count": 893,
+          "listed_count": 0,
+          "media_count": 199,
+          "tweet_count": 2732
+        },
+        "url": "",
+        "username": "karmakarma1221",
+        "verified": false
+      }
+    ]
+  }
+}

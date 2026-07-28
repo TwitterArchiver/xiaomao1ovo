@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1944044332052623364",
+    "conversation_id": "2076523147000696990",
+    "created_at": "2026-07-14T17:58:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T18:58:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077090478600917004"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1799871279782330368",
+          "start": 0,
+          "username": "chanrick270881"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077090478600917004",
+    "in_reply_to_user_id": "1799871279782330368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077088287840473278",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chanrick270881 和别人的纠纷啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944044332052623364",
+        "conversation_id": "2076523147000696990",
+        "created_at": "2026-07-14T17:58:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T18:58:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077090478600917004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1799871279782330368",
+              "start": 0,
+              "username": "chanrick270881"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077090478600917004",
+        "in_reply_to_user_id": "1799871279782330368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077088287840473278",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chanrick270881 和别人的纠纷啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799871279782330368",
+        "conversation_id": "2076523147000696990",
+        "created_at": "2026-07-14T17:50:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T18:50:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077088287840473278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1944044332052623364",
+              "start": 0,
+              "username": "xiaomao1ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077088287840473278",
+        "in_reply_to_user_id": "1944044332052623364",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076523147000696990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaomao1ovo 发生什么事了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-12T14:41:26.000Z",
+        "description": "我就是小喵喵呀 od/05/中焦/强迫症/上学中/infj 每天专注经营啥子生活 我很好沟通呀欢迎互动欢迎聊天欢迎互fo     https://t.co/SlJDUSZmMP欢迎匿名提问呀",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomao84558",
+                "end": 88,
+                "expanded_url": "https://ngl.link/xiaomao84558",
+                "start": 65,
+                "url": "https://t.co/SlJDUSZmMP"
+              }
+            ]
+          }
+        },
+        "id": "1944044332052623364",
+        "name": "小喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947228243133939712/3HtvHlaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 59,
+          "like_count": 64,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 62
+        },
+        "url": "",
+        "username": "xiaomao1ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-09T18:29:00.000Z",
+        "description": "noting is here",
+        "id": "1799871279782330368",
+        "name": "劝晚风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075255004429205505/jEULioy5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 19,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 321
+        },
+        "url": "",
+        "username": "chanrick270881",
+        "verified": false
+      }
+    ]
+  }
+}

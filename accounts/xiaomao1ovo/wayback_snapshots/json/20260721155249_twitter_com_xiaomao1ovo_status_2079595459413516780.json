@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1944044332052623364",
+    "conversation_id": "2079543665400426804",
+    "created_at": "2026-07-21T15:52:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T16:52:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079595459413516780"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2027342983457370113",
+          "start": 0,
+          "username": "x_xcherry0719"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079595459413516780",
+    "in_reply_to_user_id": "2027342983457370113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079589842690982104",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@x_xcherry0719 挂神内 说这个效果比较适合你 提前了解一下那些医院有这个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944044332052623364",
+        "conversation_id": "2079543665400426804",
+        "created_at": "2026-07-21T15:52:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T16:52:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079595459413516780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2027342983457370113",
+              "start": 0,
+              "username": "x_xcherry0719"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079595459413516780",
+        "in_reply_to_user_id": "2027342983457370113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079589842690982104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x_xcherry0719 挂神内 说这个效果比较适合你 提前了解一下那些医院有这个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2027342983457370113",
+        "conversation_id": "2079543665400426804",
+        "created_at": "2026-07-21T15:30:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T16:30:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079589842690982104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1944044332052623364",
+              "start": 0,
+              "username": "xiaomao1ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079589842690982104",
+        "in_reply_to_user_id": "1944044332052623364",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079543665400426804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaomao1ovo 我也想吃😭如何开到…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-12T14:41:26.000Z",
+        "description": "我就是小喵喵呀 05 / 💊🚬 / 焦虑症 / 强迫症 / m / 全友好几乎无雷❤️ / 上学中 / infj 每天专注经营啥子生活 我很好沟通呀虽然我很语弱🥺欢迎互动欢迎聊天欢迎互fo 只回同类！！提问箱：https://t.co/SlJDUSZmMP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomao84558",
+                "end": 128,
+                "expanded_url": "https://ngl.link/xiaomao84558",
+                "start": 105,
+                "url": "https://t.co/SlJDUSZmMP"
+              }
+            ]
+          }
+        },
+        "id": "1944044332052623364",
+        "name": "小喵喵喵喵喵喵喵喵喵",
+        "pinned_tweet_id": "2078263130673856747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947228243133939712/3HtvHlaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 149,
+          "like_count": 418,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 148
+        },
+        "url": "",
+        "username": "xiaomao1ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-27T11:20:31.000Z",
+        "description": "我只是在装我自设妹我不是霓虹金好吧\n10年/餐券od药物全肯定毒虫/双相/上学中\n同类都会回fo好吧，欢迎来和我玩我是社交孤儿",
+        "id": "2027342983457370113",
+        "location": "DXM星球",
+        "name": "チェリーちゃん🖤",
+        "pinned_tweet_id": "2076986918278168659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050257900237647872/kgPPiKEz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 60,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 160
+        },
+        "url": "",
+        "username": "x_xcherry0719",
+        "verified": false
+      }
+    ]
+  }
+}

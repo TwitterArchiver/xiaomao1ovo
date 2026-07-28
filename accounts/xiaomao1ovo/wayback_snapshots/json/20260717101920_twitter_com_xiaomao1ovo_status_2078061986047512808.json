@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1944044332052623364",
+    "conversation_id": "2078061986047512808",
+    "created_at": "2026-07-17T10:19:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T11:19:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078061986047512808"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2078061986047512808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "喵喵被关在柜子里 坐腿不能伸直 高度有一米左右\n我吃了💊之后  幻觉这个小房间一直有动物\n梦见身一个女的(挺有钱的！）温温柔柔来说打零工 拉我说企鹅好可怕 我就放在"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944044332052623364",
+        "conversation_id": "2078061986047512808",
+        "created_at": "2026-07-17T10:19:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T11:19:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078061986047512808"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078061986047512808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喵喵被关在柜子里 坐腿不能伸直 高度有一米左右\n我吃了💊之后  幻觉这个小房间一直有动物\n梦见身一个女的(挺有钱的！）温温柔柔来说打零工 拉我说企鹅好可怕 我就放在"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-12T14:41:26.000Z",
+        "description": "我就是小喵喵呀 05/💊🚬/中焦转重焦/强迫症/上学中/infj 每天专注经营啥子生活 我很好沟通呀欢迎互动欢迎聊天欢迎互fo 只回同类！！https://t.co/SlJDUSZmMP欢迎匿名提问呀",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomao84558",
+                "end": 93,
+                "expanded_url": "https://ngl.link/xiaomao84558",
+                "start": 70,
+                "url": "https://t.co/SlJDUSZmMP"
+              }
+            ]
+          }
+        },
+        "id": "1944044332052623364",
+        "name": "小喵喵喵喵喵喵喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947228243133939712/3HtvHlaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 79,
+          "like_count": 142,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 92
+        },
+        "url": "",
+        "username": "xiaomao1ovo",
+        "verified": false
+      }
+    ]
+  }
+}

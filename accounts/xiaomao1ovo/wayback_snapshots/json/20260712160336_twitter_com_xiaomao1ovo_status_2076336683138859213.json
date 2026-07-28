@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1944044332052623364",
+    "conversation_id": "2075336967815139631",
+    "created_at": "2026-07-12T16:03:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T17:03:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076336683138859213"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1640751385502425088",
+          "start": 0,
+          "username": "aiaiaiai_9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076336683138859213",
+    "in_reply_to_user_id": "1640751385502425088",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076329057483170247",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aiaiaiai_9 🩷🩷🩷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944044332052623364",
+        "conversation_id": "2075336967815139631",
+        "created_at": "2026-07-12T16:03:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T17:03:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076336683138859213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1640751385502425088",
+              "start": 0,
+              "username": "aiaiaiai_9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076336683138859213",
+        "in_reply_to_user_id": "1640751385502425088",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076329057483170247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aiaiaiai_9 🩷🩷🩷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1640751385502425088",
+        "conversation_id": "2075336967815139631",
+        "created_at": "2026-07-12T15:33:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T16:33:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076329057483170247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1944044332052623364",
+              "start": 0,
+              "username": "xiaomao1ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076329057483170247",
+        "in_reply_to_user_id": "1944044332052623364",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075336967815139631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaomao1ovo 好萌好萌🥹❤️❤️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-12T14:41:26.000Z",
+        "description": "我就是小喵喵呀 od/05/中焦/强迫症/上学中/infj  每天专注经营啥子生活 我很好沟通呀欢迎互动欢迎聊天欢迎互fo",
+        "id": "1944044332052623364",
+        "name": "小喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947228243133939712/3HtvHlaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 45,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 31
+        },
+        "url": "",
+        "username": "xiaomao1ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-28T16:23:24.000Z",
+        "description": "🪦魂兮归来～同类互fo大欢迎！\n06女/双相/坐标北京/失恋中💔od自伤❤️尼古丁❤️三次贱男和幸福b请远离我\n没回复就是被吞评论了",
+        "id": "1640751385502425088",
+        "name": "Naomin💵✨",
+        "pinned_tweet_id": "2075621297179287725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075443555062206464/v1S5MOlm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 86,
+          "like_count": 3677,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 498
+        },
+        "url": "",
+        "username": "aiaiaiai_9",
+        "verified": false
+      }
+    ]
+  }
+}

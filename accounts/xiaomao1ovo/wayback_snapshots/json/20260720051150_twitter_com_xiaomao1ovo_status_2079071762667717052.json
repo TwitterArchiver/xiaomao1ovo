@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1944044332052623364",
+    "conversation_id": "2079049295945445845",
+    "created_at": "2026-07-20T05:11:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T06:11:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079071762667717052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2062758646141054976",
+          "start": 0,
+          "username": "Chuiertu_chan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079071762667717052",
+    "in_reply_to_user_id": "2062758646141054976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079049568961102202",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chuiertu_chan 泰国（尝尝叶子）日本 国内的话云南好想吃少见的蘑菇\n我现在好想吃我的盐野义 但是不舍得太贵了而且我只有两盒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944044332052623364",
+        "conversation_id": "2079049295945445845",
+        "created_at": "2026-07-20T05:11:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T06:11:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079071762667717052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2062758646141054976",
+              "start": 0,
+              "username": "Chuiertu_chan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079071762667717052",
+        "in_reply_to_user_id": "2062758646141054976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079049568961102202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chuiertu_chan 泰国（尝尝叶子）日本 国内的话云南好想吃少见的蘑菇\n我现在好想吃我的盐野义 但是不舍得太贵了而且我只有两盒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2062758646141054976",
+        "conversation_id": "2079049295945445845",
+        "created_at": "2026-07-20T03:43:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T04:43:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079049568961102202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1944044332052623364",
+              "start": 0,
+              "username": "xiaomao1ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079049568961102202",
+        "in_reply_to_user_id": "1944044332052623364",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079049295945445845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaomao1ovo 4！18！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-12T14:41:26.000Z",
+        "description": "我就是小喵喵呀 05 / 💊🚬 / 焦虑症 / 强迫症 / m / 全友好几乎无雷❤️ / 上学中 / infj 每天专注经营啥子生活 我很好沟通呀虽然我很语弱🥺欢迎互动欢迎聊天欢迎互fo 只回同类！！提问箱：https://t.co/SlJDUSZmMP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomao84558",
+                "end": 128,
+                "expanded_url": "https://ngl.link/xiaomao84558",
+                "start": 105,
+                "url": "https://t.co/SlJDUSZmMP"
+              }
+            ]
+          }
+        },
+        "id": "1944044332052623364",
+        "name": "小喵喵喵喵喵喵喵喵喵",
+        "pinned_tweet_id": "2078263130673856747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947228243133939712/3HtvHlaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 136,
+          "like_count": 329,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 130
+        },
+        "url": "",
+        "username": "xiaomao1ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-05T04:50:25.000Z",
+        "description": "坏蛋世界。双子星@AkiraTT_chan \n互fo请私信呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "AkiraTT_chan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Chuiertu_chan",
+                "end": 23,
+                "expanded_url": "http://t.me/Chuiertu_chan",
+                "start": 0,
+                "url": "https://t.co/og70qcUDvV"
+              }
+            ]
+          }
+        },
+        "id": "2062758646141054976",
+        "name": "Akira_晓",
+        "pinned_tweet_id": "2076665457273180666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076663312704512000/9fIpz77U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 79,
+          "like_count": 145,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 81
+        },
+        "url": "https://t.co/og70qcUDvV",
+        "username": "Chuiertu_chan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1944044332052623364",
+    "conversation_id": "2081829761811370150",
+    "created_at": "2026-07-27T20:40:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T21:40:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081842244999610770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1883207896768651264",
+          "start": 0,
+          "username": "clem0216"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081842244999610770",
+    "in_reply_to_user_id": "1883207896768651264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081838346108875066",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@clem0216 😧波奇酱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944044332052623364",
+        "conversation_id": "2081829761811370150",
+        "created_at": "2026-07-27T20:40:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T21:40:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081842244999610770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1883207896768651264",
+              "start": 0,
+              "username": "clem0216"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081842244999610770",
+        "in_reply_to_user_id": "1883207896768651264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081838346108875066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@clem0216 😧波奇酱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883207896768651264",
+        "conversation_id": "2081829761811370150",
+        "created_at": "2026-07-27T20:25:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T21:25:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081838346108875066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1944044332052623364",
+              "start": 0,
+              "username": "xiaomao1ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081838346108875066",
+        "in_reply_to_user_id": "1944044332052623364",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081829761811370150",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaomao1ovo 凑凑的小喵喵，我要喝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-12T14:41:26.000Z",
+        "description": "我就是小喵喵呀 05 / 💊🚬 / 焦虑症 / 强迫症 / m / 全友好几乎无雷❤️ / 上学中 / infj 每天专注经营啥子生活 我很好沟通呀虽然我很语弱🥺欢迎互动欢迎聊天欢迎互fo 只回同类！！提问箱：https://t.co/SlJDUSZmMP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomao84558",
+                "end": 128,
+                "expanded_url": "https://ngl.link/xiaomao84558",
+                "start": 105,
+                "url": "https://t.co/SlJDUSZmMP"
+              }
+            ]
+          }
+        },
+        "id": "1944044332052623364",
+        "name": "小喵喵喵喵喵喵喵喵喵",
+        "pinned_tweet_id": "2078263130673856747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947228243133939712/3HtvHlaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 178,
+          "like_count": 661,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 202
+        },
+        "url": "",
+        "username": "xiaomao1ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "互fo / 09 / 重抑中焦 / od重度依赖 / oder / 偶尔👁️👁️一下fo / 准高三 / 休学中 / 查成分回fo / 没回fo请私 / 目标是成为1千fo的小v / 可以叫我小波奇或波奇酱，也可以叫我佳研.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/clem0216",
+                "end": 23,
+                "expanded_url": "https://ngl.link/clem0216",
+                "start": 0,
+                "url": "https://t.co/WPFwIPra7T"
+              }
+            ]
+          }
+        },
+        "id": "1883207896768651264",
+        "location": "在你心里",
+        "name": "波奇酱🍥.",
+        "pinned_tweet_id": "2081722256087199971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 783,
+          "following_count": 572,
+          "like_count": 12126,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 925
+        },
+        "url": "https://t.co/WPFwIPra7T",
+        "username": "clem0216",
+        "verified": true
+      }
+    ]
+  }
+}

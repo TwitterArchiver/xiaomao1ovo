@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1944044332052623364",
+    "conversation_id": "2081565894988239358",
+    "created_at": "2026-07-27T02:48:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T03:48:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081572405198069790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1701997020469399552",
+          "start": 0,
+          "username": "gongzisama1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081572405198069790",
+    "in_reply_to_user_id": "1701997020469399552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081571933154672995",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gongzisama1 爱你公子🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944044332052623364",
+        "conversation_id": "2081565894988239358",
+        "created_at": "2026-07-27T02:48:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T03:48:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081572405198069790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1701997020469399552",
+              "start": 0,
+              "username": "gongzisama1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081572405198069790",
+        "in_reply_to_user_id": "1701997020469399552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081571933154672995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gongzisama1 爱你公子🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701997020469399552",
+        "conversation_id": "2081565894988239358",
+        "created_at": "2026-07-27T02:46:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T03:46:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081571933154672995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1944044332052623364",
+              "start": 0,
+              "username": "xiaomao1ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081571933154672995",
+        "in_reply_to_user_id": "1944044332052623364",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081565894988239358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaomao1ovo 6-8t吧，毕竟半衰期太长了多了会很麻烦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-12T14:41:26.000Z",
+        "description": "我就是小喵喵呀 05 / 💊🚬 / 焦虑症 / 强迫症 / m / 全友好几乎无雷❤️ / 上学中 / infj 每天专注经营啥子生活 我很好沟通呀虽然我很语弱🥺欢迎互动欢迎聊天欢迎互fo 只回同类！！提问箱：https://t.co/SlJDUSZmMP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomao84558",
+                "end": 128,
+                "expanded_url": "https://ngl.link/xiaomao84558",
+                "start": 105,
+                "url": "https://t.co/SlJDUSZmMP"
+              }
+            ]
+          }
+        },
+        "id": "1944044332052623364",
+        "name": "小喵喵喵喵喵喵喵喵喵",
+        "pinned_tweet_id": "2078263130673856747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947228243133939712/3HtvHlaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 164,
+          "like_count": 596,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 181
+        },
+        "url": "",
+        "username": "xiaomao1ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-13T16:31:38.000Z",
+        "description": "账号回来了 主号@xx1012000456\nod和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/lzROBqdeKL 大概几天统一回复一次\n策划药官方：@mingrentangRC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "xx1012000456"
+              },
+              {
+                "end": 112,
+                "start": 98,
+                "username": "mingrentangRC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 80,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 57,
+                "url": "https://t.co/lzROBqdeKL"
+              }
+            ]
+          }
+        },
+        "id": "1701997020469399552",
+        "location": "北京",
+        "name": "x-square 「公子」一世",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077781062726651904/aWfzE-lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 180,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 75
+        },
+        "url": "",
+        "username": "gongzisama1",
+        "verified": false
+      }
+    ]
+  }
+}

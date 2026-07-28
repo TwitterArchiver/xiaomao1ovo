@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1944044332052623364",
+    "conversation_id": "2080664044428784114",
+    "created_at": "2026-07-24T14:39:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T15:39:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080664217028534474"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2080664217028534474",
+    "in_reply_to_user_id": "1944044332052623364",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080664044428784114",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "原因是一个很窄的路上一开电车的骚逼娘们不声不响的在我后面 突然按很长的喇叭吓了我一大跳 我走在最边上也不是故意挡路 而且前面路也宽了就五米的窄路 她走了两米后我骂了句有病吧按喇叭 她下车和我互骂 还拉着我不让走拉到我手上割的很痛 我推她让她不让拉我 她说我打她 就报j了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944044332052623364",
+        "conversation_id": "2080664044428784114",
+        "created_at": "2026-07-24T14:39:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T15:39:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080664217028534474"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080664217028534474",
+        "in_reply_to_user_id": "1944044332052623364",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080664044428784114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "原因是一个很窄的路上一开电车的骚逼娘们不声不响的在我后面 突然按很长的喇叭吓了我一大跳 我走在最边上也不是故意挡路 而且前面路也宽了就五米的窄路 她走了两米后我骂了句有病吧按喇叭 她下车和我互骂 还拉着我不让走拉到我手上割的很痛 我推她让她不让拉我 她说我打她 就报j了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944044332052623364",
+        "conversation_id": "2080664044428784114",
+        "created_at": "2026-07-24T14:38:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T15:38:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080664044428784114"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080664044428784114",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又去派出所了...和人有纠纷报警了 晶哥面前哭了一个小时 我对象说晶晶觉得我精神不正常问他原因 他还以为要给我毒检笑死我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-12T14:41:26.000Z",
+        "description": "我就是小喵喵呀 05 / 💊🚬 / 焦虑症 / 强迫症 / m / 全友好几乎无雷❤️ / 上学中 / infj 每天专注经营啥子生活 我很好沟通呀虽然我很语弱🥺欢迎互动欢迎聊天欢迎互fo 只回同类！！提问箱：https://t.co/SlJDUSZmMP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomao84558",
+                "end": 128,
+                "expanded_url": "https://ngl.link/xiaomao84558",
+                "start": 105,
+                "url": "https://t.co/SlJDUSZmMP"
+              }
+            ]
+          }
+        },
+        "id": "1944044332052623364",
+        "name": "小喵喵喵喵喵喵喵喵喵",
+        "pinned_tweet_id": "2078263130673856747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947228243133939712/3HtvHlaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 160,
+          "like_count": 542,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 168
+        },
+        "url": "",
+        "username": "xiaomao1ovo",
+        "verified": false
+      }
+    ]
+  }
+}

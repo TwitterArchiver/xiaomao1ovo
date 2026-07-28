@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1944044332052623364",
+    "conversation_id": "2077947009399681366",
+    "created_at": "2026-07-17T03:40:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T04:40:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077961542738620692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1317689258052710400",
+          "start": 0,
+          "username": "5oke_k29"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077961542738620692",
+    "in_reply_to_user_id": "1317689258052710400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077947009399681366",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@5oke_k29 自己挂出购买记录又开始说没几个人真吃了 承认自己跟风还是咋 这人我真搞不明白"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077947001136893952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNZZycDaUAAuGcx.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944044332052623364",
+        "conversation_id": "2077947009399681366",
+        "created_at": "2026-07-17T03:40:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T04:40:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077961542738620692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077961542738620692",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077947009399681366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 自己挂出购买记录又开始说没几个人真吃了 承认自己跟风还是咋 这人我真搞不明白"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077947001136893952"
+          ]
+        },
+        "author_id": "1317689258052710400",
+        "conversation_id": "2077947009399681366",
+        "created_at": "2026-07-17T02:42:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T03:42:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077947009399681366"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fKDH2skCeK",
+              "end": 50,
+              "expanded_url": "https://x.com/5oke_k29/status/2077947009399681366/photo/1",
+              "media_key": "3_2077947001136893952",
+              "start": 27,
+              "url": "https://t.co/fKDH2skCeK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077947009399681366",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 130,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这也是个傻子玩意 我不敢正面骂？正面骂你骂得过你爹？ https://t.co/fKDH2skCeK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-12T14:41:26.000Z",
+        "description": "我就是小喵喵呀 od/05/中焦变重焦/强迫症/上学中/infj 每天专注经营啥子生活 我很好沟通呀欢迎互动欢迎聊天欢迎互fo 只回同类！！https://t.co/SlJDUSZmMP欢迎匿名提问呀",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomao84558",
+                "end": 93,
+                "expanded_url": "https://ngl.link/xiaomao84558",
+                "start": 70,
+                "url": "https://t.co/SlJDUSZmMP"
+              }
+            ]
+          }
+        },
+        "id": "1944044332052623364",
+        "name": "小喵喵喵喵喵喵喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947228243133939712/3HtvHlaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 78,
+          "like_count": 124,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 83
+        },
+        "url": "",
+        "username": "xiaomao1ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 理解不了就屏蔽我滑走好吗？从始至终我都是瞎发而已..",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5167,
+          "following_count": 151,
+          "like_count": 963,
+          "listed_count": 9,
+          "media_count": 303,
+          "tweet_count": 2665
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      }
+    ]
+  }
+}

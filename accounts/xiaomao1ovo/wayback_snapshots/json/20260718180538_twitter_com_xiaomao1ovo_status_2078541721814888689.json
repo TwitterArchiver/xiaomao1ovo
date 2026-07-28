@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1944044332052623364",
+    "conversation_id": "2078541721814888689",
+    "created_at": "2026-07-18T18:05:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T19:05:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078541721814888689"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ytkk999/status…",
+          "end": 85,
+          "expanded_url": "https://twitter.com/ytkk999/status/2078333873172423140",
+          "start": 62,
+          "url": "https://t.co/3Hq7QCZsJt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078541721814888689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078333873172423140",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "傻逼货自己也在发 刚高考完闲的没事想个啥就当自己是哲学家了？你要是真幸福不理解就算了 言行不一就是个更可恨的贱逼 臭婊子滚 https://t.co/3Hq7QCZsJt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944044332052623364",
+        "conversation_id": "2078541721814888689",
+        "created_at": "2026-07-18T18:05:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T19:05:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078541721814888689"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ytkk999/status…",
+              "end": 85,
+              "expanded_url": "https://twitter.com/ytkk999/status/2078333873172423140",
+              "start": 62,
+              "url": "https://t.co/3Hq7QCZsJt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078541721814888689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078333873172423140",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "傻逼货自己也在发 刚高考完闲的没事想个啥就当自己是哲学家了？你要是真幸福不理解就算了 言行不一就是个更可恨的贱逼 臭婊子滚 https://t.co/3Hq7QCZsJt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935535718933090304",
+        "conversation_id": "2078333873172423140",
+        "created_at": "2026-07-18T04:19:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T05:19:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078333873172423140"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078333873172423140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 53962,
+          "like_count": 367,
+          "quote_count": 20,
+          "reply_count": 175,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "很多时候提童年创伤干嘛呢？不可否认童年创伤对人的影响很大，可是你都二三十岁了还要持续提原生家庭吗？？提到多少岁才是个头呢？纵使它影响真的很深远，人不能坐以待毙就放任它影响自己的一生吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-12T14:41:26.000Z",
+        "description": "我就是小喵喵呀 05 / 💊🚬 / 焦虑症 / 强迫症 / m / 全友好几乎无雷❤️ / 上学中 / infj 每天专注经营啥子生活 我很好沟通呀虽然我很语弱🥺欢迎互动欢迎聊天欢迎互fo 只回同类！！https://t.co/SlJDUSZmMP欢迎匿名提问呀",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomao84558",
+                "end": 124,
+                "expanded_url": "https://ngl.link/xiaomao84558",
+                "start": 101,
+                "url": "https://t.co/SlJDUSZmMP"
+              }
+            ]
+          }
+        },
+        "id": "1944044332052623364",
+        "name": "小喵喵喵喵喵喵喵喵喵",
+        "pinned_tweet_id": "2078263130673856747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947228243133939712/3HtvHlaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 112,
+          "like_count": 192,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 113
+        },
+        "url": "",
+        "username": "xiaomao1ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-19T03:10:59.000Z",
+        "description": "你如冬天般流淌 而我甚至不认识白色\n\n不线下不加v",
+        "id": "1935535718933090304",
+        "location": "BJ",
+        "name": "K k",
+        "pinned_tweet_id": "2060743740852256813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935548487283687424/DXQxhi7M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 73,
+          "like_count": 1454,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 1261
+        },
+        "url": "",
+        "username": "Ytkk999",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1944044332052623364",
+    "conversation_id": "2079049295945445845",
+    "created_at": "2026-07-20T05:10:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T06:10:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079071367182610618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2058029942198374400",
+          "start": 0,
+          "username": "yudia666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079071367182610618",
+    "in_reply_to_user_id": "2058029942198374400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079058525347778899",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yudia666 想去泰国尝尝叶子 还想去日本！国内的话想去云贵尝尝那边的美食\n总给我点赞的好推油🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944044332052623364",
+        "conversation_id": "2079049295945445845",
+        "created_at": "2026-07-20T05:10:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T06:10:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079071367182610618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2058029942198374400",
+              "start": 0,
+              "username": "yudia666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079071367182610618",
+        "in_reply_to_user_id": "2058029942198374400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079058525347778899",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yudia666 想去泰国尝尝叶子 还想去日本！国内的话想去云贵尝尝那边的美食\n总给我点赞的好推油🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058029942198374400",
+        "conversation_id": "2079049295945445845",
+        "created_at": "2026-07-20T04:19:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T05:19:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079058525347778899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1944044332052623364",
+              "start": 0,
+              "username": "xiaomao1ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079058525347778899",
+        "in_reply_to_user_id": "1944044332052623364",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079049295945445845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaomao1ovo 4 8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-12T14:41:26.000Z",
+        "description": "我就是小喵喵呀 05 / 💊🚬 / 焦虑症 / 强迫症 / m / 全友好几乎无雷❤️ / 上学中 / infj 每天专注经营啥子生活 我很好沟通呀虽然我很语弱🥺欢迎互动欢迎聊天欢迎互fo 只回同类！！提问箱：https://t.co/SlJDUSZmMP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomao84558",
+                "end": 128,
+                "expanded_url": "https://ngl.link/xiaomao84558",
+                "start": 105,
+                "url": "https://t.co/SlJDUSZmMP"
+              }
+            ]
+          }
+        },
+        "id": "1944044332052623364",
+        "name": "小喵喵喵喵喵喵喵喵喵",
+        "pinned_tweet_id": "2078263130673856747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947228243133939712/3HtvHlaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 136,
+          "like_count": 329,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 129
+        },
+        "url": "",
+        "username": "xiaomao1ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-23T03:39:58.000Z",
+        "description": "killabot  正在学习人类语言  谵妄剂爱好者 请随便骚扰我 156",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuda21436",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuda21436",
+                "start": 0,
+                "url": "https://t.co/BUKnKIH0FA"
+              }
+            ]
+          }
+        },
+        "id": "2058029942198374400",
+        "location": "محافظة شرق الدولة الإسلامية",
+        "name": "𝖞𝖚𝖉𝖆",
+        "pinned_tweet_id": "2071924273778921875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068942921869758464/UJ-J2j84_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 173,
+          "like_count": 18299,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1684
+        },
+        "url": "https://t.co/BUKnKIH0FA",
+        "username": "yudia666",
+        "verified": false
+      }
+    ]
+  }
+}

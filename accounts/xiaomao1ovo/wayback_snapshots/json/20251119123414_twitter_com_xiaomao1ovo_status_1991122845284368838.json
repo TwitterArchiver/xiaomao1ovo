@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1944044332052623364",
+    "conversation_id": "1990803880700264767",
+    "created_at": "2025-11-19T12:34:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T13:34:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991122845284368838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "4188206625",
+          "start": 0,
+          "username": "DFxxd23"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991122845284368838",
+    "in_reply_to_user_id": "4188206625",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990803880700264767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DFxxd23 991"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944044332052623364",
+        "conversation_id": "1990803880700264767",
+        "created_at": "2025-11-19T12:34:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T13:34:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991122845284368838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "4188206625",
+              "start": 0,
+              "username": "DFxxd23"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991122845284368838",
+        "in_reply_to_user_id": "4188206625",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990803880700264767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DFxxd23 991"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4188206625",
+        "conversation_id": "1990803880700264767",
+        "created_at": "2025-11-18T15:26:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T16:26:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990803880700264767"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1990803880700264767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 324,
+          "impression_count": 1007185,
+          "like_count": 9326,
+          "quote_count": 2,
+          "reply_count": 12229,
+          "retweet_count": 278
+        },
+        "reply_settings": "everyone",
+        "text": "第1次犬交成功\n真的被🐶内了 好恶心 我全吐了🤮\n录了两个小视频时长二十九分钟\n想看 点赞和评论扣991 🧐🧐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-12T14:41:26.000Z",
+        "description": "🚪520只回复口令红包",
+        "id": "1944044332052623364",
+        "name": "小喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947228243133939712/3HtvHlaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 4,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 4
+        },
+        "username": "xiaomao1ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2015-11-14T18:37:09.000Z",
+        "description": "喜欢就点个关注",
+        "id": "4188206625",
+        "location": "5.9km",
+        "name": "堕落女孩",
+        "pinned_tweet_id": "1990324027483983975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910302925853016064/MDlJl9KD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23073,
+          "following_count": 0,
+          "like_count": 565,
+          "listed_count": 14,
+          "media_count": 42,
+          "tweet_count": 1197
+        },
+        "username": "DFxxd23",
+        "verified": false
+      }
+    ]
+  }
+}

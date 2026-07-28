@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080561942494851072"
+      ]
+    },
+    "author_id": "1944044332052623364",
+    "conversation_id": "2080561959943172279",
+    "created_at": "2026-07-24T07:53:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T08:53:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080561959943172279"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/iQ4ZulVI0I",
+          "end": 42,
+          "expanded_url": "https://x.com/xiaomao1ovo/status/2080561959943172279/photo/1",
+          "media_key": "3_2080561942494851072",
+          "start": 19,
+          "url": "https://t.co/iQ4ZulVI0I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080561959943172279",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我昨天吃了思诺思把这玩意看成两个女仆 https://t.co/iQ4ZulVI0I"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080561942494851072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN-kEDuaMAA0Cpc.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080561942494851072"
+          ]
+        },
+        "author_id": "1944044332052623364",
+        "conversation_id": "2080561959943172279",
+        "created_at": "2026-07-24T07:53:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T08:53:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080561959943172279"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iQ4ZulVI0I",
+              "end": 42,
+              "expanded_url": "https://x.com/xiaomao1ovo/status/2080561959943172279/photo/1",
+              "media_key": "3_2080561942494851072",
+              "start": 19,
+              "url": "https://t.co/iQ4ZulVI0I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080561959943172279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我昨天吃了思诺思把这玩意看成两个女仆 https://t.co/iQ4ZulVI0I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-12T14:41:26.000Z",
+        "description": "我就是小喵喵呀 05 / 💊🚬 / 焦虑症 / 强迫症 / m / 全友好几乎无雷❤️ / 上学中 / infj 每天专注经营啥子生活 我很好沟通呀虽然我很语弱🥺欢迎互动欢迎聊天欢迎互fo 只回同类！！提问箱：https://t.co/SlJDUSZmMP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomao84558",
+                "end": 128,
+                "expanded_url": "https://ngl.link/xiaomao84558",
+                "start": 105,
+                "url": "https://t.co/SlJDUSZmMP"
+              }
+            ]
+          }
+        },
+        "id": "1944044332052623364",
+        "name": "小喵喵喵喵喵喵喵喵喵",
+        "pinned_tweet_id": "2078263130673856747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947228243133939712/3HtvHlaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 159,
+          "like_count": 539,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 166
+        },
+        "url": "",
+        "username": "xiaomao1ovo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079049286223015936"
+      ]
+    },
+    "author_id": "1944044332052623364",
+    "conversation_id": "2079049295945445845",
+    "created_at": "2026-07-20T03:42:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T04:42:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079049295945445845"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CMpMoVXgj0",
+          "end": 39,
+          "expanded_url": "https://x.com/xiaomao1ovo/status/2079049295945445845/photo/1",
+          "media_key": "3_2079049286223015936",
+          "start": 16,
+          "url": "https://t.co/CMpMoVXgj0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079049295945445845",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我也想玩这个 米娜桑快提问我🤤 https://t.co/CMpMoVXgj0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2079049286223015936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNpET3_aMAA904-.jpg",
+        "width": 995
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079049286223015936"
+          ]
+        },
+        "author_id": "1944044332052623364",
+        "conversation_id": "2079049295945445845",
+        "created_at": "2026-07-20T03:42:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T04:42:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079049295945445845"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CMpMoVXgj0",
+              "end": 39,
+              "expanded_url": "https://x.com/xiaomao1ovo/status/2079049295945445845/photo/1",
+              "media_key": "3_2079049286223015936",
+              "start": 16,
+              "url": "https://t.co/CMpMoVXgj0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079049295945445845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我也想玩这个 米娜桑快提问我🤤 https://t.co/CMpMoVXgj0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-12T14:41:26.000Z",
+        "description": "我就是小喵喵呀 05 / 💊🚬 / 焦虑症 / 强迫症 / m / 全友好几乎无雷❤️ / 上学中 / infj 每天专注经营啥子生活 我很好沟通呀虽然我很语弱🥺欢迎互动欢迎聊天欢迎互fo 只回同类！！提问箱：https://t.co/SlJDUSZmMP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomao84558",
+                "end": 128,
+                "expanded_url": "https://ngl.link/xiaomao84558",
+                "start": 105,
+                "url": "https://t.co/SlJDUSZmMP"
+              }
+            ]
+          }
+        },
+        "id": "1944044332052623364",
+        "name": "小喵喵喵喵喵喵喵喵喵",
+        "pinned_tweet_id": "2078263130673856747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947228243133939712/3HtvHlaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 136,
+          "like_count": 326,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 127
+        },
+        "url": "",
+        "username": "xiaomao1ovo",
+        "verified": false
+      }
+    ]
+  }
+}

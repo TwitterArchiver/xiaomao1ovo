@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1944044332052623364",
+    "conversation_id": "2079049295945445845",
+    "created_at": "2026-07-21T02:30:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T03:30:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079393453205828021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1994280385098706944",
+          "start": 0,
+          "username": "Xiehoicj1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079393453205828021",
+    "in_reply_to_user_id": "1994280385098706944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079374774976061820",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xiehoicj1 买裙子\n10\n做饭很好吃嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944044332052623364",
+        "conversation_id": "2079049295945445845",
+        "created_at": "2026-07-21T02:30:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T03:30:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079393453205828021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1994280385098706944",
+              "start": 0,
+              "username": "Xiehoicj1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079393453205828021",
+        "in_reply_to_user_id": "1994280385098706944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079374774976061820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiehoicj1 买裙子\n10\n做饭很好吃嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1994280385098706944",
+        "conversation_id": "2079049295945445845",
+        "created_at": "2026-07-21T01:15:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T02:15:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079374774976061820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1944044332052623364",
+              "start": 0,
+              "username": "xiaomao1ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079374774976061820",
+        "in_reply_to_user_id": "1944044332052623364",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079049295945445845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaomao1ovo 7.13.21"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-12T14:41:26.000Z",
+        "description": "我就是小喵喵呀 05 / 💊🚬 / 焦虑症 / 强迫症 / m / 全友好几乎无雷❤️ / 上学中 / infj 每天专注经营啥子生活 我很好沟通呀虽然我很语弱🥺欢迎互动欢迎聊天欢迎互fo 只回同类！！提问箱：https://t.co/SlJDUSZmMP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomao84558",
+                "end": 128,
+                "expanded_url": "https://ngl.link/xiaomao84558",
+                "start": 105,
+                "url": "https://t.co/SlJDUSZmMP"
+              }
+            ]
+          }
+        },
+        "id": "1944044332052623364",
+        "name": "小喵喵喵喵喵喵喵喵喵",
+        "pinned_tweet_id": "2078263130673856747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947228243133939712/3HtvHlaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 141,
+          "like_count": 378,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 142
+        },
+        "url": "",
+        "username": "xiaomao1ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-28T05:42:49.000Z",
+        "description": "泥嚎我是坳遥(。ì_í。)｜♊｜「istp」碎碎念当pyq发呀请多多找我玩（希望可以跟你们成为电子好朋友～🤍🩶🖤）",
+        "id": "1994280385098706944",
+        "name": "Xieho",
+        "pinned_tweet_id": "2020656595118813453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994280884522893312/nxcbGI-S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 169,
+          "like_count": 2836,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 199
+        },
+        "url": "",
+        "username": "Xiehoicj1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078144795755552768"
+      ],
+      "media_source_tweet_id": [
+        "2078144810670542937"
+      ]
+    },
+    "author_id": "1944044332052623364",
+    "conversation_id": "2078258645155082656",
+    "created_at": "2026-07-17T23:20:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T00:20:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078258645155082656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2008420775204896768",
+          "start": 3,
+          "username": "Yuki312813"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Dum9PKlLW6",
+          "end": 83,
+          "expanded_url": "https://x.com/Yuki312813/status/2078144810670542937/photo/1",
+          "media_key": "3_2078144795755552768",
+          "start": 60,
+          "url": "https://t.co/Dum9PKlLW6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078258645155082656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078144810670542937",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yuki312813: 这是我的自介条，不嫌麻烦的好宝宝可以转一转欢迎互fo，看完后如果雷我我很真诚的对不起你 https://t.co/Dum9PKlLW6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1195,
+        "media_key": "3_2078144795755552768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNcNrmbWIAA4qdc.jpg",
+        "width": 1924
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078144795755552768"
+          ]
+        },
+        "author_id": "2008420775204896768",
+        "conversation_id": "2078144810670542937",
+        "created_at": "2026-07-17T15:48:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T16:48:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078144810670542937"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dum9PKlLW6",
+              "end": 67,
+              "expanded_url": "https://x.com/Yuki312813/status/2078144810670542937/photo/1",
+              "media_key": "3_2078144795755552768",
+              "start": 44,
+              "url": "https://t.co/Dum9PKlLW6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078144810670542937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 497,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "这是我的自介条，不嫌麻烦的好宝宝可以转一转欢迎互fo，看完后如果雷我我很真诚的对不起你 https://t.co/Dum9PKlLW6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078144795755552768"
+          ],
+          "media_source_tweet_id": [
+            "2078144810670542937"
+          ]
+        },
+        "author_id": "1944044332052623364",
+        "conversation_id": "2078258645155082656",
+        "created_at": "2026-07-17T23:20:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T00:20:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078258645155082656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2008420775204896768",
+              "start": 3,
+              "username": "Yuki312813"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dum9PKlLW6",
+              "end": 83,
+              "expanded_url": "https://x.com/Yuki312813/status/2078144810670542937/photo/1",
+              "media_key": "3_2078144795755552768",
+              "start": 60,
+              "url": "https://t.co/Dum9PKlLW6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078258645155082656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078144810670542937",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yuki312813: 这是我的自介条，不嫌麻烦的好宝宝可以转一转欢迎互fo，看完后如果雷我我很真诚的对不起你 https://t.co/Dum9PKlLW6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-12T14:41:26.000Z",
+        "description": "我就是小喵喵呀 05 / 💊🚬 / 中焦转重焦 /  强迫症 / m / 全友好几乎无雷❤️ / 上学中 / infj  每天专注经营啥子生活 我很好沟通呀欢迎互动欢迎聊天欢迎互fo 只回同类！！https://t.co/SlJDUSZmMP欢迎匿名提问呀",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomao84558",
+                "end": 121,
+                "expanded_url": "https://ngl.link/xiaomao84558",
+                "start": 98,
+                "url": "https://t.co/SlJDUSZmMP"
+              }
+            ]
+          }
+        },
+        "id": "1944044332052623364",
+        "name": "小喵喵喵喵喵喵喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947228243133939712/3HtvHlaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 86,
+          "like_count": 172,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 97
+        },
+        "url": "",
+        "username": "xiaomao1ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "C栋天台",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 145,
+          "like_count": 3333,
+          "listed_count": 0,
+          "media_count": 337,
+          "tweet_count": 2839
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      }
+    ]
+  }
+}

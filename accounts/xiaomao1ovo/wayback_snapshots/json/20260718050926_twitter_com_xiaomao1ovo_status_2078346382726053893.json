@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1944044332052623364",
+    "conversation_id": "2078345962574299403",
+    "created_at": "2026-07-18T05:09:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T06:09:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078346382726053893"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2078346382726053893",
+    "in_reply_to_user_id": "1944044332052623364",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078345962574299403",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "回想起上次我老公知道我出轨立马找我立马回家了 我猜他没听到 但是还是好可怕呀我现在胆战心惊 我好想死我好想哭 我的小心脏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944044332052623364",
+        "conversation_id": "2078345962574299403",
+        "created_at": "2026-07-18T05:09:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T06:09:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078346382726053893"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078346382726053893",
+        "in_reply_to_user_id": "1944044332052623364",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078345962574299403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "回想起上次我老公知道我出轨立马找我立马回家了 我猜他没听到 但是还是好可怕呀我现在胆战心惊 我好想死我好想哭 我的小心脏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944044332052623364",
+        "conversation_id": "2078345962574299403",
+        "created_at": "2026-07-18T05:07:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T06:07:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078345962574299403"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaomao1ovo/st…",
+              "end": 160,
+              "expanded_url": "https://twitter.com/xiaomao1ovo/status/2078223081408270465",
+              "start": 137,
+              "url": "https://t.co/5qw4OKLSr2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078345962574299403",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078223081408270465",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我糙特别想死 这个思诺思害惨我了 我的小三说昨天我在柜子里给他打电话一直在说他很猛比我对象猛比我对象好反正说了很多难以启齿的话我都不敢回忆 还一直表白一直闹 我对象应该是在另一个房间弄电脑吧不然听到这些应该受不鸟的 也可能我老公怕说我我还自残不敢说 我不知道 我现在只想死 https://t.co/5qw4OKLSr2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-12T14:41:26.000Z",
+        "description": "我就是小喵喵呀 05 / 💊🚬 / 中焦转重焦 / 强迫症 / m / 全友好几乎无雷❤️ / 上学中 / infj 每天专注经营啥子生活 我很好沟通呀虽然我很语弱🥺欢迎互动欢迎聊天欢迎互fo 只回同类！！https://t.co/SlJDUSZmMP欢迎匿名提问呀",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomao84558",
+                "end": 126,
+                "expanded_url": "https://ngl.link/xiaomao84558",
+                "start": 103,
+                "url": "https://t.co/SlJDUSZmMP"
+              }
+            ]
+          }
+        },
+        "id": "1944044332052623364",
+        "name": "小喵喵喵喵喵喵喵喵喵",
+        "pinned_tweet_id": "2078263130673856747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947228243133939712/3HtvHlaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 94,
+          "like_count": 183,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 109
+        },
+        "url": "",
+        "username": "xiaomao1ovo",
+        "verified": false
+      }
+    ]
+  }
+}

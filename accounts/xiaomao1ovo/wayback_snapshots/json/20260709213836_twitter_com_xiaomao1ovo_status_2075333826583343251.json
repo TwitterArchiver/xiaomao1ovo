@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1944044332052623364",
+    "conversation_id": "2075333826583343251",
+    "created_at": "2026-07-09T21:38:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T22:38:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075333826583343251"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiaomao1ovo/st…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/xiaomao1ovo/status/2075326967264792664",
+          "start": 28,
+          "url": "https://t.co/D1VOJeapG6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075333826583343251",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075326967264792664",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "而且我这几次吃完都有很久的残余药效 好难受 又晕又头疼 https://t.co/D1VOJeapG6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2075326958309969920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM0K337bkAAVEHi.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944044332052623364",
+        "conversation_id": "2075333826583343251",
+        "created_at": "2026-07-09T21:38:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T22:38:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075333826583343251"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaomao1ovo/st…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/xiaomao1ovo/status/2075326967264792664",
+              "start": 28,
+              "url": "https://t.co/D1VOJeapG6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075333826583343251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075326967264792664",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "而且我这几次吃完都有很久的残余药效 好难受 又晕又头疼 https://t.co/D1VOJeapG6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075326958309969920"
+          ]
+        },
+        "author_id": "1944044332052623364",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2075326967264792664",
+        "created_at": "2026-07-09T21:11:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T22:11:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075326967264792664"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q3WqdnfGVV",
+              "end": 69,
+              "expanded_url": "https://x.com/xiaomao1ovo/status/2075326967264792664/photo/1",
+              "media_key": "3_2075326958309969920",
+              "start": 46,
+              "url": "https://t.co/Q3WqdnfGVV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075326967264792664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉脑子要炸了 头好痛 我记得以前o都不痛 就这几次吃这个口哨糖痛 不知道是不是这个的原因 https://t.co/Q3WqdnfGVV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-12T14:41:26.000Z",
+        "description": "我就是小喵喵呀 od/05/中焦/强迫症/上学中/infj 每天专注经营啥子生活 我很好沟通呀欢迎互动欢迎聊天欢迎互fo",
+        "id": "1944044332052623364",
+        "name": "小喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947228243133939712/3HtvHlaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 34,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 19
+        },
+        "url": "",
+        "username": "xiaomao1ovo",
+        "verified": false
+      }
+    ]
+  }
+}
