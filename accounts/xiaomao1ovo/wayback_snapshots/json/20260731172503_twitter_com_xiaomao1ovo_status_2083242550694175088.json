@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083242507857731584",
+        "3_2083242507908112384",
+        "3_2083242507857797120"
+      ]
+    },
+    "author_id": "1944044332052623364",
+    "conversation_id": "2083242550694175088",
+    "created_at": "2026-07-31T17:25:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T18:25:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083242550694175088"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GwmDvteZ3W",
+          "end": 48,
+          "expanded_url": "https://x.com/xiaomao1ovo/status/2083242550694175088/photo/1",
+          "media_key": "3_2083242507857731584",
+          "start": 25,
+          "url": "https://t.co/GwmDvteZ3W"
+        },
+        {
+          "display_url": "pic.x.com/GwmDvteZ3W",
+          "end": 48,
+          "expanded_url": "https://x.com/xiaomao1ovo/status/2083242550694175088/photo/1",
+          "media_key": "3_2083242507908112384",
+          "start": 25,
+          "url": "https://t.co/GwmDvteZ3W"
+        },
+        {
+          "display_url": "pic.x.com/GwmDvteZ3W",
+          "end": 48,
+          "expanded_url": "https://x.com/xiaomao1ovo/status/2083242550694175088/photo/1",
+          "media_key": "3_2083242507857797120",
+          "start": 25,
+          "url": "https://t.co/GwmDvteZ3W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083242550694175088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一个亿🥵\n不可以👿👿👿\n我是一个河南人 开心☺️ https://t.co/GwmDvteZ3W"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083242507857731584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOkqBf3aoAAl_35.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2083242507908112384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOkqBgDbYAAFdW5.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2083242507857797120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOkqBf3boAAsiuC.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083242507857731584",
+            "3_2083242507908112384",
+            "3_2083242507857797120"
+          ]
+        },
+        "author_id": "1944044332052623364",
+        "conversation_id": "2083242550694175088",
+        "created_at": "2026-07-31T17:25:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T18:25:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083242550694175088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GwmDvteZ3W",
+              "end": 48,
+              "expanded_url": "https://x.com/xiaomao1ovo/status/2083242550694175088/photo/1",
+              "media_key": "3_2083242507857731584",
+              "start": 25,
+              "url": "https://t.co/GwmDvteZ3W"
+            },
+            {
+              "display_url": "pic.x.com/GwmDvteZ3W",
+              "end": 48,
+              "expanded_url": "https://x.com/xiaomao1ovo/status/2083242550694175088/photo/1",
+              "media_key": "3_2083242507908112384",
+              "start": 25,
+              "url": "https://t.co/GwmDvteZ3W"
+            },
+            {
+              "display_url": "pic.x.com/GwmDvteZ3W",
+              "end": 48,
+              "expanded_url": "https://x.com/xiaomao1ovo/status/2083242550694175088/photo/1",
+              "media_key": "3_2083242507857797120",
+              "start": 25,
+              "url": "https://t.co/GwmDvteZ3W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083242550694175088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个亿🥵\n不可以👿👿👿\n我是一个河南人 开心☺️ https://t.co/GwmDvteZ3W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-12T14:41:26.000Z",
+        "description": "我就是小喵喵呀 05 / 💊🚬 / 焦虑症 / 强迫症 / m / 全友好几乎无雷❤️ / 上学中 / infj 每天专注经营啥子生活 我很好沟通呀虽然我很语弱🥺欢迎互动欢迎聊天欢迎互fo 只回同类！！想加我的🚪88👿提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomao84558",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaomao84558",
+                "start": 0,
+                "url": "https://t.co/SlJDUSYOXh"
+              }
+            ]
+          }
+        },
+        "id": "1944044332052623364",
+        "location": "距你0.1km",
+        "name": "小喵喵喵喵喵喵喵喵喵",
+        "pinned_tweet_id": "2082661922256896216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947228243133939712/3HtvHlaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 196,
+          "like_count": 935,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 280
+        },
+        "url": "https://t.co/SlJDUSYOXh",
+        "username": "xiaomao1ovo",
+        "verified": false
+      }
+    ]
+  }
+}

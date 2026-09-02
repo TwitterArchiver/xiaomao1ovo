@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083212338363318272"
+      ]
+    },
+    "author_id": "1944044332052623364",
+    "conversation_id": "2083212350778413072",
+    "created_at": "2026-07-31T15:25:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T16:25:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083212350778413072"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lfpm7to3JE",
+          "end": 36,
+          "expanded_url": "https://x.com/xiaomao1ovo/status/2083212350778413072/photo/1",
+          "media_key": "3_2083212338363318272",
+          "start": 13,
+          "url": "https://t.co/lfpm7to3JE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083212350778413072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感谢☺️虽然不知道你是随 https://t.co/lfpm7to3JE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1208,
+        "media_key": "3_2083212338363318272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOkOlZvbQAA0c_i.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083212338363318272"
+          ]
+        },
+        "author_id": "1944044332052623364",
+        "conversation_id": "2083212350778413072",
+        "created_at": "2026-07-31T15:25:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T16:25:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083212350778413072"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lfpm7to3JE",
+              "end": 36,
+              "expanded_url": "https://x.com/xiaomao1ovo/status/2083212350778413072/photo/1",
+              "media_key": "3_2083212338363318272",
+              "start": 13,
+              "url": "https://t.co/lfpm7to3JE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083212350778413072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感谢☺️虽然不知道你是随 https://t.co/lfpm7to3JE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-12T14:41:26.000Z",
+        "description": "我就是小喵喵呀 05 / 💊🚬 / 焦虑症 / 强迫症 / m / 全友好几乎无雷❤️ / 上学中 / infj 每天专注经营啥子生活 我很好沟通呀虽然我很语弱🥺欢迎互动欢迎聊天欢迎互fo 只回同类！！提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomao84558",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaomao84558",
+                "start": 0,
+                "url": "https://t.co/SlJDUSZmMP"
+              }
+            ]
+          }
+        },
+        "id": "1944044332052623364",
+        "location": "距你0.1km",
+        "name": "小喵喵喵喵喵喵喵喵喵",
+        "pinned_tweet_id": "2082661922256896216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947228243133939712/3HtvHlaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 196,
+          "like_count": 928,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 276
+        },
+        "url": "https://t.co/SlJDUSZmMP",
+        "username": "xiaomao1ovo",
+        "verified": false
+      }
+    ]
+  }
+}

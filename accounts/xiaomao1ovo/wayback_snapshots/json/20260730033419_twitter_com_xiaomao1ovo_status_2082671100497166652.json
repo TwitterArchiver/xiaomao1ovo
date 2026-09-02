@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1944044332052623364",
+    "conversation_id": "2082453176247341336",
+    "created_at": "2026-07-30T03:34:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T04:34:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082671100497166652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1773143737423847424",
+          "start": 0,
+          "username": "Fanqian77v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082671100497166652",
+    "in_reply_to_user_id": "1773143737423847424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082453176247341336",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fanqian77v 真的好蓝瘦这个 药效比晚安多一点解离的感觉 我感觉我受不了就是半衰期就是更久更久的晚安的半衰期 吃点别的叭宝贝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944044332052623364",
+        "conversation_id": "2082453176247341336",
+        "created_at": "2026-07-30T03:34:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T04:34:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082671100497166652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1773143737423847424",
+              "start": 0,
+              "username": "Fanqian77v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082671100497166652",
+        "in_reply_to_user_id": "1773143737423847424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082453176247341336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fanqian77v 真的好蓝瘦这个 药效比晚安多一点解离的感觉 我感觉我受不了就是半衰期就是更久更久的晚安的半衰期 吃点别的叭宝贝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773143737423847424",
+        "conversation_id": "2082453176247341336",
+        "created_at": "2026-07-29T13:08:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T14:08:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082453176247341336"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082453176247341336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 158,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "36kg吃多少t美金刚比较好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-12T14:41:26.000Z",
+        "description": "我就是小喵喵呀 05 / 💊🚬 / 焦虑症 / 强迫症 / m / 全友好几乎无雷❤️ / 上学中 / infj 每天专注经营啥子生活 我很好沟通呀虽然我很语弱🥺欢迎互动欢迎聊天欢迎互fo 只回同类！！提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomao84558",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaomao84558",
+                "start": 0,
+                "url": "https://t.co/SlJDUSZmMP"
+              }
+            ]
+          }
+        },
+        "id": "1944044332052623364",
+        "location": "距你0.1km",
+        "name": "小喵喵喵喵喵喵喵喵喵",
+        "pinned_tweet_id": "2082661922256896216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947228243133939712/3HtvHlaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 198,
+          "like_count": 825,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 260
+        },
+        "url": "https://t.co/SlJDUSZmMP",
+        "username": "xiaomao1ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "我是小 Q，喜欢我就给我打钱吧\n🚪88纯绿➕pyq\n只o不g 互关dd，会查主页成分回关，没回到的可以私信我呀",
+        "id": "1773143737423847424",
+        "name": "Q",
+        "pinned_tweet_id": "2082404128203096160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 93,
+          "like_count": 928,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 462
+        },
+        "url": "",
+        "username": "Fanqian77v",
+        "verified": false
+      }
+    ]
+  }
+}

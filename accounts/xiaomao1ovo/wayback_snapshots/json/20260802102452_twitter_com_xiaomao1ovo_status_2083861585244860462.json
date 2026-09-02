@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083861576277483521",
+        "3_2083861576319381504"
+      ]
+    },
+    "author_id": "1944044332052623364",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2083861585244860462",
+    "created_at": "2026-08-02T10:24:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T11:24:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083861585244860462"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9ilQooLKIB",
+          "end": 41,
+          "expanded_url": "https://x.com/xiaomao1ovo/status/2083861585244860462/photo/1",
+          "media_key": "3_2083861576277483521",
+          "start": 18,
+          "url": "https://t.co/9ilQooLKIB"
+        },
+        {
+          "display_url": "pic.x.com/9ilQooLKIB",
+          "end": 41,
+          "expanded_url": "https://x.com/xiaomao1ovo/status/2083861585244860462/photo/1",
+          "media_key": "3_2083861576319381504",
+          "start": 18,
+          "url": "https://t.co/9ilQooLKIB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083861585244860462",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "o了一些达美乐\n18：24剧烈饱腹 https://t.co/9ilQooLKIB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083861576277483521",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOtdEBca4AEMYRP.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2083861576319381504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOtdEBmaMAA2GO8.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083861576277483521",
+            "3_2083861576319381504"
+          ]
+        },
+        "author_id": "1944044332052623364",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2083861585244860462",
+        "created_at": "2026-08-02T10:24:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T11:24:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083861585244860462"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9ilQooLKIB",
+              "end": 41,
+              "expanded_url": "https://x.com/xiaomao1ovo/status/2083861585244860462/photo/1",
+              "media_key": "3_2083861576277483521",
+              "start": 18,
+              "url": "https://t.co/9ilQooLKIB"
+            },
+            {
+              "display_url": "pic.x.com/9ilQooLKIB",
+              "end": 41,
+              "expanded_url": "https://x.com/xiaomao1ovo/status/2083861585244860462/photo/1",
+              "media_key": "3_2083861576319381504",
+              "start": 18,
+              "url": "https://t.co/9ilQooLKIB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083861585244860462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "o了一些达美乐\n18：24剧烈饱腹 https://t.co/9ilQooLKIB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-12T14:41:26.000Z",
+        "description": "我就是小喵喵呀 05 / 💊🚬 / 焦虑症 / 强迫症 / m / 全友好几乎无雷❤️ / 上学中 / infj 每天专注经营啥子生活 我很好沟通呀虽然我很语弱🥺欢迎互动欢迎聊天欢迎互fo 只回同类！！想加我的🚪88只获得聊天机会 钞能力另说  赞赏码备注带v或者私聊我发口令👿提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomao84558",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaomao84558",
+                "start": 0,
+                "url": "https://t.co/SlJDUSYOXh"
+              }
+            ]
+          }
+        },
+        "id": "1944044332052623364",
+        "location": "距你0.1km",
+        "name": "小喵喵喵喵喵喵喵喵喵",
+        "pinned_tweet_id": "2082661922256896216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947228243133939712/3HtvHlaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 535,
+          "following_count": 210,
+          "like_count": 1035,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 299
+        },
+        "url": "https://t.co/SlJDUSYOXh",
+        "username": "xiaomao1ovo",
+        "verified": false
+      }
+    ]
+  }
+}

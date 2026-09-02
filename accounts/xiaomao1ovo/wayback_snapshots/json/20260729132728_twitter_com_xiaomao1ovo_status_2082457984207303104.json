@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082457961507717120"
+      ]
+    },
+    "author_id": "1944044332052623364",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2082457984207303104",
+    "created_at": "2026-07-29T13:27:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T14:27:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082457984207303104"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3797LhZoqj",
+          "end": 83,
+          "expanded_url": "https://x.com/xiaomao1ovo/status/2082457984207303104/photo/1",
+          "media_key": "3_2082457961507717120",
+          "start": 60,
+          "url": "https://t.co/3797LhZoqj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082457984207303104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我吃了5t0.3g加巴喷丁 4颗口哨糖这个是在太难吃了呀我觉得 再吃一盒盐野义 等待药效中 西柚汁也好难喝我觉得 哭🥲 https://t.co/3797LhZoqj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082457961507717120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZge49aAAA5u6_.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082457961507717120"
+          ]
+        },
+        "author_id": "1944044332052623364",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2082457984207303104",
+        "created_at": "2026-07-29T13:27:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T14:27:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082457984207303104"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3797LhZoqj",
+              "end": 83,
+              "expanded_url": "https://x.com/xiaomao1ovo/status/2082457984207303104/photo/1",
+              "media_key": "3_2082457961507717120",
+              "start": 60,
+              "url": "https://t.co/3797LhZoqj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082457984207303104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我吃了5t0.3g加巴喷丁 4颗口哨糖这个是在太难吃了呀我觉得 再吃一盒盐野义 等待药效中 西柚汁也好难喝我觉得 哭🥲 https://t.co/3797LhZoqj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-12T14:41:26.000Z",
+        "description": "我就是小喵喵呀 05 / 💊🚬 / 焦虑症 / 强迫症 / m / 全友好几乎无雷❤️ / 上学中 / infj 每天专注经营啥子生活 我很好沟通呀虽然我很语弱🥺欢迎互动欢迎聊天欢迎互fo 只回同类！！提问箱：https://t.co/SlJDUSYOXh",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomao84558",
+                "end": 128,
+                "expanded_url": "https://ngl.link/xiaomao84558",
+                "start": 105,
+                "url": "https://t.co/SlJDUSYOXh"
+              }
+            ]
+          }
+        },
+        "id": "1944044332052623364",
+        "location": "距你0.1km",
+        "name": "小喵喵喵喵喵喵喵喵喵",
+        "pinned_tweet_id": "2078263130673856747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947228243133939712/3HtvHlaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 186,
+          "like_count": 752,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 229
+        },
+        "url": "",
+        "username": "xiaomao1ovo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1944044332052623364",
+    "conversation_id": "2082417571496952182",
+    "created_at": "2026-07-29T13:24:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T14:24:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082457186090025393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1317689258052710400",
+          "start": 0,
+          "username": "5oke_k29"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082457186090025393",
+    "in_reply_to_user_id": "1317689258052710400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082417571496952182",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@5oke_k29 宝宝这母狗咋了👿👿"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1438,
+        "media_key": "3_2082417561879351296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOY7vUnakAAFdWy.jpg",
+        "width": 647
+      },
+      {
+        "height": 452,
+        "media_key": "3_2082417561904488448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOY7vUtaIAA_1ty.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944044332052623364",
+        "conversation_id": "2082417571496952182",
+        "created_at": "2026-07-29T13:24:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T14:24:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082457186090025393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082457186090025393",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082417571496952182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 宝宝这母狗咋了👿👿"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082417561879351296",
+            "3_2082417561904488448"
+          ]
+        },
+        "author_id": "1317689258052710400",
+        "conversation_id": "2082417571496952182",
+        "created_at": "2026-07-29T10:46:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T11:46:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082417571496952182"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uEPkAaG7zk",
+              "end": 61,
+              "expanded_url": "https://x.com/5oke_k29/status/2082417571496952182/photo/1",
+              "media_key": "3_2082417561879351296",
+              "start": 38,
+              "url": "https://t.co/uEPkAaG7zk"
+            },
+            {
+              "display_url": "pic.x.com/uEPkAaG7zk",
+              "end": 61,
+              "expanded_url": "https://x.com/5oke_k29/status/2082417571496952182/photo/1",
+              "media_key": "3_2082417561904488448",
+              "start": 38,
+              "url": "https://t.co/uEPkAaG7zk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082417571496952182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 553,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "长这母猪样也好意思活着赶紧跳楼重开吧😂卖逼都没人要也就给农村老大爷操操操了 https://t.co/uEPkAaG7zk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-12T14:41:26.000Z",
+        "description": "我就是小喵喵呀 05 / 💊🚬 / 焦虑症 / 强迫症 / m / 全友好几乎无雷❤️ / 上学中 / infj 每天专注经营啥子生活 我很好沟通呀虽然我很语弱🥺欢迎互动欢迎聊天欢迎互fo 只回同类！！提问箱：https://t.co/SlJDUSYOXh",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomao84558",
+                "end": 128,
+                "expanded_url": "https://ngl.link/xiaomao84558",
+                "start": 105,
+                "url": "https://t.co/SlJDUSYOXh"
+              }
+            ]
+          }
+        },
+        "id": "1944044332052623364",
+        "location": "距你0.1km",
+        "name": "小喵喵喵喵喵喵喵喵喵",
+        "pinned_tweet_id": "2078263130673856747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947228243133939712/3HtvHlaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 186,
+          "like_count": 751,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 228
+        },
+        "url": "",
+        "username": "xiaomao1ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 我没素质别他妈找骂 有多远死多远 骂我死爹烂妈全家暴毙",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5486,
+          "following_count": 163,
+          "like_count": 992,
+          "listed_count": 11,
+          "media_count": 360,
+          "tweet_count": 3005
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      }
+    ]
+  }
+}

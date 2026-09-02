@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1944044332052623364",
+    "conversation_id": "2082645970010161180",
+    "created_at": "2026-07-30T05:55:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T06:55:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082706754539053086"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "822434163223449603",
+          "start": 0,
+          "username": "Theshhyyyyyyyyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082706754539053086",
+    "in_reply_to_user_id": "822434163223449603",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082699926790983944",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Theshhyyyyyyyyy 有的 入我门除了损失一些元子什么都不会发生"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944044332052623364",
+        "conversation_id": "2082645970010161180",
+        "created_at": "2026-07-30T05:55:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T06:55:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082706754539053086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "822434163223449603",
+              "start": 0,
+              "username": "Theshhyyyyyyyyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082706754539053086",
+        "in_reply_to_user_id": "822434163223449603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082699926790983944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Theshhyyyyyyyyy 有的 入我门除了损失一些元子什么都不会发生"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "822434163223449603",
+        "conversation_id": "2082645970010161180",
+        "created_at": "2026-07-30T05:28:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T06:28:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082699926790983944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1944044332052623364",
+              "start": 0,
+              "username": "xiaomao1ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082699926790983944",
+        "in_reply_to_user_id": "1944044332052623364",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082645970010161180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaomao1ovo 有门吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-12T14:41:26.000Z",
+        "description": "我就是小喵喵呀 05 / 💊🚬 / 焦虑症 / 强迫症 / m / 全友好几乎无雷❤️ / 上学中 / infj 每天专注经营啥子生活 我很好沟通呀虽然我很语弱🥺欢迎互动欢迎聊天欢迎互fo 只回同类！！提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomao84558",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaomao84558",
+                "start": 0,
+                "url": "https://t.co/SlJDUSZmMP"
+              }
+            ]
+          }
+        },
+        "id": "1944044332052623364",
+        "location": "距你0.1km",
+        "name": "小喵喵喵喵喵喵喵喵喵",
+        "pinned_tweet_id": "2082661922256896216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947228243133939712/3HtvHlaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 199,
+          "like_count": 832,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 261
+        },
+        "url": "https://t.co/SlJDUSZmMP",
+        "username": "xiaomao1ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-20T13:22:39.000Z",
+        "description": "喜欢疯批/不喜欢和正常人玩/什么时候能恢复健康",
+        "id": "822434163223449603",
+        "location": "蚌埠",
+        "name": "打的时候不想打",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050212569898729473/thX0WDaK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 21,
+          "like_count": 1006,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 24
+        },
+        "url": "",
+        "username": "Theshhyyyyyyyyy",
+        "verified": false
+      }
+    ]
+  }
+}

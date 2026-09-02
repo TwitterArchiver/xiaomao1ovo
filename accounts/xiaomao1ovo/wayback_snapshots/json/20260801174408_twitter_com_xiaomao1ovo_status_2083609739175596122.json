@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1944044332052623364",
+    "conversation_id": "2083591924666216839",
+    "created_at": "2026-08-01T17:44:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T18:44:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083609739175596122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1958564025727664128",
+          "start": 0,
+          "username": "SNS142148"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083609739175596122",
+    "in_reply_to_user_id": "1958564025727664128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083591924666216839",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SNS142148 哎哎哎哎这是什么感觉呢🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20003,
+        "height": 590,
+        "media_key": "13_2083591887517335552",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083591887517335552/img/_5XRziEbW_nfd29Y.jpg",
+        "public_metrics": {
+          "view_count": 33
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083591887517335552/vid/avc1/584x270/O-xXpshjtNNZ_aBJ.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083591887517335552/vid/avc1/780x360/6Ta3K1NlX6xNOHmu.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083591887517335552/vid/avc1/1280x590/w4GXswvtFXd0BVkr.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083591887517335552/pl/JhdLDwZ772Xb8jhU.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944044332052623364",
+        "conversation_id": "2083591924666216839",
+        "created_at": "2026-08-01T17:44:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T18:44:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083609739175596122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1958564025727664128",
+              "start": 0,
+              "username": "SNS142148"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083609739175596122",
+        "in_reply_to_user_id": "1958564025727664128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083591924666216839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SNS142148 哎哎哎哎这是什么感觉呢🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083591887517335552"
+          ]
+        },
+        "author_id": "1958564025727664128",
+        "conversation_id": "2083591924666216839",
+        "created_at": "2026-08-01T16:33:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T17:33:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083591924666216839"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W8TtaeACrj",
+              "end": 32,
+              "expanded_url": "https://x.com/SNS142148/status/2083591924666216839/video/1",
+              "media_key": "13_2083591887517335552",
+              "start": 9,
+              "url": "https://t.co/W8TtaeACrj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083591924666216839",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "随便玩玩自己身体 https://t.co/W8TtaeACrj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-12T14:41:26.000Z",
+        "description": "我就是小喵喵呀 05 / 💊🚬 / 焦虑症 / 强迫症 / m / 全友好几乎无雷❤️ / 上学中 / infj 每天专注经营啥子生活 我很好沟通呀虽然我很语弱🥺欢迎互动欢迎聊天欢迎互fo 只回同类！！想加我的🚪88只获得聊天机会 钞能力另说  赞赏码备注带v或者私聊我发口令👿提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomao84558",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaomao84558",
+                "start": 0,
+                "url": "https://t.co/SlJDUSYOXh"
+              }
+            ]
+          }
+        },
+        "id": "1944044332052623364",
+        "location": "距你0.1km",
+        "name": "小喵喵喵喵喵喵喵喵喵",
+        "pinned_tweet_id": "2082661922256896216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947228243133939712/3HtvHlaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 525,
+          "following_count": 208,
+          "like_count": 1015,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 295
+        },
+        "url": "https://t.co/SlJDUSYOXh",
+        "username": "xiaomao1ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-21T16:17:14.000Z",
+        "description": "可以叫我橙子喔！可互fo/偏执狂/INFP/OD💊/重度XP享受者/性别酷儿🏳️‍🌈/药理学习ins…/重度焦虑/双相/ADHD/日本語を学んでいます\n提问箱：https://t.co/VRLP0B0UmF\n不鼓励进行任何滥用行为！只做日常分享\n如果让你感到不适请私信我删除相关内容HRT：2023.5.31",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sns142148",
+                "end": 103,
+                "expanded_url": "https://ngl.link/sns142148",
+                "start": 80,
+                "url": "https://t.co/VRLP0B0UmF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LOVEsnsoverdose",
+                "end": 23,
+                "expanded_url": "https://t.me/LOVEsnsoverdose",
+                "start": 0,
+                "url": "https://t.co/XfQ0VJ1q30"
+              }
+            ]
+          }
+        },
+        "id": "1958564025727664128",
+        "location": "歌舞伎町",
+        "name": "賢妻良母橙味糖Pro",
+        "pinned_tweet_id": "2058670486503240005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958564147328901120/OGultXoy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 121,
+          "like_count": 910,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 1010
+        },
+        "url": "https://t.co/XfQ0VJ1q30",
+        "username": "SNS142148",
+        "verified": false
+      }
+    ]
+  }
+}

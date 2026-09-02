@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1944044332052623364",
+    "conversation_id": "2081835586227511732",
+    "created_at": "2026-07-27T20:14:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T21:14:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081835586227511732"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1387989413985230860",
+          "start": 3,
+          "username": "Keshuichong111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081835586227511732",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081583843384123507",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Keshuichong111: 我确实有m倾向 但是不要真的把我当狗玩呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944044332052623364",
+        "conversation_id": "2081835586227511732",
+        "created_at": "2026-07-27T20:14:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T21:14:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081835586227511732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1387989413985230860",
+              "start": 3,
+              "username": "Keshuichong111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081835586227511732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081583843384123507",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Keshuichong111: 我确实有m倾向 但是不要真的把我当狗玩呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1387989413985230860",
+        "conversation_id": "2081583843384123507",
+        "created_at": "2026-07-27T03:33:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T04:33:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081583843384123507"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081583843384123507",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5191,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "我确实有m倾向 但是不要真的把我当狗玩呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-12T14:41:26.000Z",
+        "description": "我就是小喵喵呀 05 / 💊🚬 / 焦虑症 / 强迫症 / m / 全友好几乎无雷❤️ / 上学中 / infj 每天专注经营啥子生活 我很好沟通呀虽然我很语弱🥺欢迎互动欢迎聊天欢迎互fo 只回同类！！提问箱：https://t.co/SlJDUSZmMP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomao84558",
+                "end": 128,
+                "expanded_url": "https://ngl.link/xiaomao84558",
+                "start": 105,
+                "url": "https://t.co/SlJDUSZmMP"
+              }
+            ]
+          }
+        },
+        "id": "1944044332052623364",
+        "name": "小喵喵喵喵喵喵喵喵喵",
+        "pinned_tweet_id": "2078263130673856747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947228243133939712/3HtvHlaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 178,
+          "like_count": 659,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 201
+        },
+        "url": "",
+        "username": "xiaomao1ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-30T04:37:30.000Z",
+        "description": "🚪88",
+        "id": "1387989413985230860",
+        "name": "瞌睡虫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077070649621901312/WyQyqc99_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3308,
+          "following_count": 176,
+          "like_count": 703,
+          "listed_count": 14,
+          "media_count": 20,
+          "tweet_count": 116
+        },
+        "url": "",
+        "username": "Keshuichong111",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083983202612576256",
+        "3_2083983202658766848",
+        "3_2083983202616807424"
+      ]
+    },
+    "author_id": "1944044332052623364",
+    "conversation_id": "2083983209587736835",
+    "created_at": "2026-08-02T18:28:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T19:28:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083983209587736835"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QW6DG7aT0s",
+          "end": 86,
+          "expanded_url": "https://x.com/xiaomao1ovo/status/2083983209587736835/photo/1",
+          "media_key": "3_2083983202612576256",
+          "start": 63,
+          "url": "https://t.co/QW6DG7aT0s"
+        },
+        {
+          "display_url": "pic.x.com/QW6DG7aT0s",
+          "end": 86,
+          "expanded_url": "https://x.com/xiaomao1ovo/status/2083983209587736835/photo/1",
+          "media_key": "3_2083983202658766848",
+          "start": 63,
+          "url": "https://t.co/QW6DG7aT0s"
+        },
+        {
+          "display_url": "pic.x.com/QW6DG7aT0s",
+          "end": 86,
+          "expanded_url": "https://x.com/xiaomao1ovo/status/2083983209587736835/photo/1",
+          "media_key": "3_2083983202616807424",
+          "start": 63,
+          "url": "https://t.co/QW6DG7aT0s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083983209587736835",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1.我是一个河南人 开心😚\n2.俺是河南嘞  入门只是聊天  钞能力🧧有福利\n3.暂时没有这个想法唉🥺🥺我等生理期过了打舌钉 https://t.co/QW6DG7aT0s"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 740,
+        "media_key": "3_2083983202612576256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOvLrm2agAAwKJp.jpg",
+        "width": 1207
+      },
+      {
+        "height": 787,
+        "media_key": "3_2083983202658766848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOvLrnBbUAAPcTh.jpg",
+        "width": 1149
+      },
+      {
+        "height": 723,
+        "media_key": "3_2083983202616807424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOvLrm3bEAARW3q.jpg",
+        "width": 1137
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083983202612576256",
+            "3_2083983202658766848",
+            "3_2083983202616807424"
+          ]
+        },
+        "author_id": "1944044332052623364",
+        "conversation_id": "2083983209587736835",
+        "created_at": "2026-08-02T18:28:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T19:28:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083983209587736835"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QW6DG7aT0s",
+              "end": 86,
+              "expanded_url": "https://x.com/xiaomao1ovo/status/2083983209587736835/photo/1",
+              "media_key": "3_2083983202612576256",
+              "start": 63,
+              "url": "https://t.co/QW6DG7aT0s"
+            },
+            {
+              "display_url": "pic.x.com/QW6DG7aT0s",
+              "end": 86,
+              "expanded_url": "https://x.com/xiaomao1ovo/status/2083983209587736835/photo/1",
+              "media_key": "3_2083983202658766848",
+              "start": 63,
+              "url": "https://t.co/QW6DG7aT0s"
+            },
+            {
+              "display_url": "pic.x.com/QW6DG7aT0s",
+              "end": 86,
+              "expanded_url": "https://x.com/xiaomao1ovo/status/2083983209587736835/photo/1",
+              "media_key": "3_2083983202616807424",
+              "start": 63,
+              "url": "https://t.co/QW6DG7aT0s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083983209587736835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1.我是一个河南人 开心😚\n2.俺是河南嘞  入门只是聊天  钞能力🧧有福利\n3.暂时没有这个想法唉🥺🥺我等生理期过了打舌钉 https://t.co/QW6DG7aT0s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-12T14:41:26.000Z",
+        "description": "我就是小喵喵呀 05 / 💊🚬 / 焦虑症 / 强迫症 / m / 全友好几乎无雷❤️ / 上学中 / infj 每天专注经营啥子生活 我很好沟通呀虽然我很语弱🥺欢迎互动欢迎聊天欢迎互fo 只回同类！！想加我的🚪88只获得聊天机会 钞能力另说  赞赏码备注带v或者私聊我发口令👿提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomao84558",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaomao84558",
+                "start": 0,
+                "url": "https://t.co/SlJDUSYOXh"
+              }
+            ]
+          }
+        },
+        "id": "1944044332052623364",
+        "location": "距你0.1km",
+        "name": "小喵喵喵喵喵喵喵喵喵",
+        "pinned_tweet_id": "2082661922256896216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947228243133939712/3HtvHlaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 223,
+          "like_count": 1077,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 307
+        },
+        "url": "https://t.co/SlJDUSYOXh",
+        "username": "xiaomao1ovo",
+        "verified": false
+      }
+    ]
+  }
+}

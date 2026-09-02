@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1944044332052623364",
+    "conversation_id": "2082069924801900780",
+    "created_at": "2026-07-28T11:45:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T12:45:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082069924801900780"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2056401506791026689",
+          "start": 3,
+          "username": "entivv14xiRcrd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082069924801900780",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081919239481401681",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @entivv14xiRcrd: 想象一下我是你的神经病老婆，一秒钟不回消息我就自己一个人难过到爆炸疯狂割手，每天在家什么也不干就等你下班只围着你转。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944044332052623364",
+        "conversation_id": "2082069924801900780",
+        "created_at": "2026-07-28T11:45:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T12:45:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082069924801900780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2056401506791026689",
+              "start": 3,
+              "username": "entivv14xiRcrd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082069924801900780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081919239481401681",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @entivv14xiRcrd: 想象一下我是你的神经病老婆，一秒钟不回消息我就自己一个人难过到爆炸疯狂割手，每天在家什么也不干就等你下班只围着你转。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056401506791026689",
+        "conversation_id": "2081919239481401681",
+        "created_at": "2026-07-28T01:46:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T02:46:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081919239481401681"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081919239481401681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "想象一下我是你的神经病老婆，一秒钟不回消息我就自己一个人难过到爆炸疯狂割手，每天在家什么也不干就等你下班只围着你转。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-12T14:41:26.000Z",
+        "description": "我就是小喵喵呀 05 / 💊🚬 / 焦虑症 / 强迫症 / m / 全友好几乎无雷❤️ / 上学中 / infj 每天专注经营啥子生活 我很好沟通呀虽然我很语弱🥺欢迎互动欢迎聊天欢迎互fo 只回同类！！提问箱：https://t.co/SlJDUSZmMP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomao84558",
+                "end": 128,
+                "expanded_url": "https://ngl.link/xiaomao84558",
+                "start": 105,
+                "url": "https://t.co/SlJDUSZmMP"
+              }
+            ]
+          }
+        },
+        "id": "1944044332052623364",
+        "name": "小喵喵喵喵喵喵喵喵喵",
+        "pinned_tweet_id": "2078263130673856747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947228243133939712/3HtvHlaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 178,
+          "like_count": 666,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 205
+        },
+        "url": "",
+        "username": "xiaomao1ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-18T15:49:48.000Z",
+        "description": "我喜欢温柔的人 同类来和我互fo呀\n🐼我喜欢熊猫～\n来匿名提问我👇🏻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/entivv14xirxrd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/entivv14xirxrd",
+                "start": 0,
+                "url": "https://t.co/xm6SjMmQ1w"
+              }
+            ]
+          }
+        },
+        "id": "2056401506791026689",
+        "location": "春",
+        "name": "なみだ",
+        "pinned_tweet_id": "2081402299138642347",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081919388576256000/ZAVQZjaH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 90,
+          "like_count": 445,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 552
+        },
+        "url": "https://t.co/xm6SjMmQ1w",
+        "username": "entivv14xiRcrd",
+        "verified": false
+      }
+    ]
+  }
+}

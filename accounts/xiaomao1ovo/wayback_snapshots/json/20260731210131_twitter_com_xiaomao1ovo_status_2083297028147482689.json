@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1944044332052623364",
+    "conversation_id": "2083280063433150819",
+    "created_at": "2026-07-31T21:01:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T22:01:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083297028147482689"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1838620535804317696",
+          "start": 0,
+          "username": "karmakarma1221"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083297028147482689",
+    "in_reply_to_user_id": "1838620535804317696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083280063433150819",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@karmakarma1221 🐌你真的好萌好萌呀和我一个好朋友特别像我好喜欢你🥺🥺😚😚"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2083280054029541377",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOlMK-QWYAEo0Lj.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944044332052623364",
+        "conversation_id": "2083280063433150819",
+        "created_at": "2026-07-31T21:01:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T22:01:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083297028147482689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1838620535804317696",
+              "start": 0,
+              "username": "karmakarma1221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083297028147482689",
+        "in_reply_to_user_id": "1838620535804317696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083280063433150819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@karmakarma1221 🐌你真的好萌好萌呀和我一个好朋友特别像我好喜欢你🥺🥺😚😚"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083280054029541377"
+          ]
+        },
+        "author_id": "1838620535804317696",
+        "conversation_id": "2083280063433150819",
+        "created_at": "2026-07-31T19:54:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T20:54:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083280063433150819"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J4BVCkB5j0",
+              "end": 33,
+              "expanded_url": "https://x.com/karmakarma1221/status/2083280063433150819/photo/1",
+              "media_key": "3_2083280054029541377",
+              "start": 10,
+              "url": "https://t.co/J4BVCkB5j0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083280063433150819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 79,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蛞蝓酱今天是传菜员 https://t.co/J4BVCkB5j0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-12T14:41:26.000Z",
+        "description": "我就是小喵喵呀 05 / 💊🚬 / 焦虑症 / 强迫症 / m / 全友好几乎无雷❤️ / 上学中 / infj 每天专注经营啥子生活 我很好沟通呀虽然我很语弱🥺欢迎互动欢迎聊天欢迎互fo 只回同类！！想加我的🚪88只获得聊天机会 钞能力另说  赞赏码备注带v或者私聊我发口令👿提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomao84558",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaomao84558",
+                "start": 0,
+                "url": "https://t.co/SlJDUSYOXh"
+              }
+            ]
+          }
+        },
+        "id": "1944044332052623364",
+        "location": "距你0.1km",
+        "name": "小喵喵喵喵喵喵喵喵喵",
+        "pinned_tweet_id": "2082661922256896216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947228243133939712/3HtvHlaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 210,
+          "like_count": 967,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 286
+        },
+        "url": "https://t.co/SlJDUSYOXh",
+        "username": "xiaomao1ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-24T16:44:40.000Z",
+        "description": "我是蛞蝓 关注蛞蝓喵 关注蛞蝓谢谢喵♪( ´▽｀)\n\n我的提问箱 https://t.co/PXiBB5SkEn",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/karmakarma1221",
+                "end": 56,
+                "expanded_url": "https://ngl.link/karmakarma1221",
+                "start": 33,
+                "url": "https://t.co/PXiBB5SkEn"
+              }
+            ]
+          }
+        },
+        "id": "1838620535804317696",
+        "location": "公共厕所",
+        "name": "蛞蝓神膜拜膜拜",
+        "pinned_tweet_id": "2075711625663836464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068374958074413056/lXNJV8S8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1318,
+          "following_count": 793,
+          "like_count": 934,
+          "listed_count": 0,
+          "media_count": 208,
+          "tweet_count": 2837
+        },
+        "url": "",
+        "username": "karmakarma1221",
+        "verified": false
+      }
+    ]
+  }
+}

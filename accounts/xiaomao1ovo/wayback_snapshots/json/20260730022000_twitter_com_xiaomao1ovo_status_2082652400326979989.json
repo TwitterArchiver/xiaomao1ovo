@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1944044332052623364",
+    "conversation_id": "2082457984207303104",
+    "created_at": "2026-07-30T02:20:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T03:20:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082652400326979989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1495262246213230600",
+          "start": 0,
+          "username": "woodburninbox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082652400326979989",
+    "in_reply_to_user_id": "1495262246213230600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082481651595288826",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@woodburninbox 我下午起床吃了普瑞啦当时都还有药效🥰🥰口哨糖是为了不浪费吧（dxm是我宝宝 不过这玩意真的好难吃不会买第二次😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944044332052623364",
+        "conversation_id": "2082457984207303104",
+        "created_at": "2026-07-30T02:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T03:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082652400326979989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1495262246213230600",
+              "start": 0,
+              "username": "woodburninbox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082652400326979989",
+        "in_reply_to_user_id": "1495262246213230600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082481651595288826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woodburninbox 我下午起床吃了普瑞啦当时都还有药效🥰🥰口哨糖是为了不浪费吧（dxm是我宝宝 不过这玩意真的好难吃不会买第二次😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495262246213230600",
+        "conversation_id": "2082457984207303104",
+        "created_at": "2026-07-29T15:01:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T16:01:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082481651595288826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1944044332052623364",
+              "start": 0,
+              "username": "xiaomao1ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082481651595288826",
+        "in_reply_to_user_id": "1944044332052623364",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082457984207303104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaomao1ovo 你可以多吃点 无论是加巴还是口哨糖剂量都很小"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-12T14:41:26.000Z",
+        "description": "我就是小喵喵呀 05 / 💊🚬 / 焦虑症 / 强迫症 / m / 全友好几乎无雷❤️ / 上学中 / infj 每天专注经营啥子生活 我很好沟通呀虽然我很语弱🥺欢迎互动欢迎聊天欢迎互fo 只回同类！！提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaomao84558",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaomao84558",
+                "start": 0,
+                "url": "https://t.co/SlJDUSZmMP"
+              }
+            ]
+          }
+        },
+        "id": "1944044332052623364",
+        "location": "距你0.1km",
+        "name": "小喵喵喵喵喵喵喵喵喵",
+        "pinned_tweet_id": "2078263130673856747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947228243133939712/3HtvHlaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 196,
+          "like_count": 797,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 253
+        },
+        "url": "https://t.co/SlJDUSZmMP",
+        "username": "xiaomao1ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-20T05:01:27.000Z",
+        "description": "🩸💊☠️\nwhen its gone it feels like its never been there",
+        "id": "1495262246213230600",
+        "location": "上海",
+        "name": "ccandle",
+        "pinned_tweet_id": "2066891324427747715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072211132430098432/_MS0dmVj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 211,
+          "like_count": 1070,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 228
+        },
+        "url": "",
+        "username": "woodburninbox",
+        "verified": false
+      }
+    ]
+  }
+}
